@@ -322,6 +322,25 @@ countable in the output and findable in the page source. Worth checking whether
 the live Lightsail site still serves them before it goes away — that is the
 only remaining chance to recover them.
 
+## P11 — `httpss://`: 1,502 links broken in the database itself
+
+### RESOLVED 2026-11-27 — repaired in `markdown.to_markdown`
+
+330 links in 65 files of `content/` began `httpss://`, so roughly 120 links on
+the generated site were dead (`site/papers/fcj-210-…/httpss:/www.youtube.com/…`,
+resolved as a relative path). The damage is upstream of the archive: 1,502
+occurrences in the 2026-10-22 database dump and 1,386 in the crawled pages. An
+http -> https search-and-replace over the database also matched links that were
+already https.
+
+It is repaired in the shared converter rather than as a per-page correction
+because it is platform damage, not anything an author wrote, and the pattern
+cannot match a real URL. `tests/test_markdown.py` `TestDoubledScheme` holds the
+archive to zero.
+
+The generated offprints were rendered before the repair; re-run
+`build/pdfs.py` so the 65 affected papers' offprints carry the repaired links.
+
 ## Open questions for Mat
 
 1. **FCJ-222** — withdrawn or skipped? Nothing in the archive can say (P2).

@@ -322,9 +322,9 @@ Tanya Kant is a doctoral candidate and associate tutor at the University of Suss
 
 - Elwell, Sage. J. ‘The Transmediated Self: Life Between The Digital and the Analog’, *Convergence: The International Journal of Research into New Media Technologies* 20.2 (2014): 233—249.
 
-- Facebook. ‘Introducing Timeline’ (2014), httpss://www.facebook.com/about/timeline
+- Facebook. ‘Introducing Timeline’ (2014), https://www.facebook.com/about/timeline
 
-- Facebook Apps Centre. ‘Get Spotify’ (2014), httpss://apps.facebook.com/get-spotify/
+- Facebook Apps Centre. ‘Get Spotify’ (2014), https://apps.facebook.com/get-spotify/
 
 - Facebook blog. ‘News Feed FYI: Giving People More Control Over When They Share from Apps’ (2014), https://newsroom.fb.com/news/2014/05/news-feed-fyi-giving-people-more-control-over-when-they-share-from-apps/
 
@@ -380,6 +380,6 @@ Tanya Kant is a doctoral candidate and associate tutor at the University of Suss
 
 - Wilson, Julie Ann, Yochim, Emily Chivers. ‘Mommy Apps: Keeping the Family ‘Happy’ in Digital Media Culture’, unpublished manuscript, *Apps and Affect Conference 2013,* University of Western Ontario, London, Ontario.
 
-- Zuckerberg, Mark, Sukhar, Ilya, Archibong, Ime & Liu, Deb. ‘F8 2014 Keynote’ (2014), httpss://www.youtube.com/watch?v=0onciIB-ZJA
+- Zuckerberg, Mark, Sukhar, Ilya, Archibong, Ime & Liu, Deb. ‘F8 2014 Keynote’ (2014), https://www.youtube.com/watch?v=0onciIB-ZJA
 
 - Zuckerberg, Mark, ‘F8 2011 Keynote’ (2014), https://www.youtube.com/watch?v=ZLxlJbwxukA

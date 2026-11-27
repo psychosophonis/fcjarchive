@@ -215,7 +215,7 @@ Leonie Maria Tanczer is PhD Candidate at the School of Politics, International S
 
  [1] Certainly not all actions of Anonymous have a connection to civil disobedience. However, their activism raises relevant questions about means of resistance and collective self-determination in the information society.
 
- [2] Tor (httpss://www.torproject.org/) is an open source software that enables anonymity and counteracts surveillance.
+ [2] Tor (https://www.torproject.org/) is an open source software that enables anonymity and counteracts surveillance.
 
 ### References
 
@@ -226,7 +226,7 @@ Allen, Michael. ‘Civil Disobedience, International’ in *Encyclopedia of Glob
 
 - Bang Lab and Electronic Disturbance Theater, 2.0. ‘Transborder Immigrant Tool A Mexico/U.S Border Disturbance Art Project’, (n.d.) https://bang.transreal.org/transborder-immigrant-tool/
 
-- Barlow, John Perry. ‘A Declaration of the Independence of Cyberspace'(1996) httpss://projects.eff.org/~barlow/Declaration-Final.html
+- Barlow, John Perry. ‘A Declaration of the Independence of Cyberspace'(1996) https://projects.eff.org/~barlow/Declaration-Final.html
 
 - Bazzichelli, Tatiana. *Networking. The Net as Artwork* (Aarhus: Aarhus University, 2008).
 
@@ -250,7 +250,7 @@ Allen, Michael. ‘Civil Disobedience, International’ in *Encyclopedia of Glob
 
 - Castells, Manuel. *The Rise of the Network Society, The Information Age: Economy, Society and Culture* Vol. I. (Oxford: Blackwell, 2000).
 
-- Cabrera, Luis. ‘Why Can’t We Have That? “Global Civil Disobedience” and the European Living Laboratory’, *Open Democracy* (2011), httpss://www.opendemocracy.net/luis-cabrera/why-can%E2%80%99t-we-have-that-%E2%80%98global-civil-disobedience%E2%80%99-and-european-living-laboratory
+- Cabrera, Luis. ‘Why Can’t We Have That? “Global Civil Disobedience” and the European Living Laboratory’, *Open Democracy* (2011), https://www.opendemocracy.net/luis-cabrera/why-can%E2%80%99t-we-have-that-%E2%80%98global-civil-disobedience%E2%80%99-and-european-living-laboratory
 
 - Calderaro, Andrea and Anastasia Kavada. ‘Special Issue on Online Collective Action and Policy Change’, *Policy & Internet* 5.1 (2013): 1–6.
 

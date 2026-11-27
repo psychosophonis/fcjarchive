@@ -176,7 +176,7 @@ What I would call trolling happens regularly on the massive social platforms of 
 
 - Merchant, Guy. ‘Teenagers in cyberspace: An investigation of language use and language change in Internet chatrooms’ *Journal of Research in Reading*, 24:3 (2002:293–306). doi:10.1111/1467–9817.00150
 
-- Merritt, Emily. *An analysis of the discourse of Internet trolling: A case study of Reddit.com*, MA thesis, Mount Holyoke College (2012), httpss://ida.mtholyoke.edu/xmlui/handle/10166/1058
+- Merritt, Emily. *An analysis of the discourse of Internet trolling: A case study of Reddit.com*, MA thesis, Mount Holyoke College (2012), https://ida.mtholyoke.edu/xmlui/handle/10166/1058
 
 - Morozov, Evgeny. *The Net delusion* (London, UK: Allen Lane, 2011)
 

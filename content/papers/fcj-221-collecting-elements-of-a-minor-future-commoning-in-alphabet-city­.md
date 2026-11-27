@@ -91,7 +91,7 @@ Drawing on perspectives from comparative literature, philosophy, and translation
 
 - Good Electronics: International Network on Human Rights and Sustainability in Electronics, [https://goodelectronics.org/](https://goodelectronics.org/)
 
-- Harding, Luke. ‘What are the Panama Papers? A guide to history’s biggest data leak’ (The Guardian, April 05, 2016), [httpss://www.theguardian.com/news/2016/apr/03/what-you-need-to-know-about-the-panama-papers](httpss://www.theguardian.com/news/2016/apr/03/what-you-need-to-know-about-the-panama-papers)
+- Harding, Luke. ‘What are the Panama Papers? A guide to history’s biggest data leak’ (The Guardian, April 05, 2016), [https://www.theguardian.com/news/2016/apr/03/what-you-need-to-know-about-the-panama-papers](https://www.theguardian.com/news/2016/apr/03/what-you-need-to-know-about-the-panama-papers)
 
 - Hardt, Michael, and Negri, Antonio. *Commonwealth* (Cambridge: Harvard University Press, 2010).
 

@@ -212,13 +212,13 @@ Sandeep Mertia is a Research Associate at The Sarai Programme, Centre for the St
 
 [4] ‘Layers are the mechanism used to display geographic datasets in ArcMap, ArcGlobe, and ArcScene. Each layer references a dataset and specifies how that dataset is portrayed using symbols and text labels. When you add a layer to a map, you specify its dataset and set its map symbols and labeling properties.’ See ArcGIS Resources: [https://resources.arcgis.com/en/help/main/10.1/index.html#//00s500000006000000](https://resources.arcgis.com/en/help/main/10.1/index.html)
 
-[5] ‘In software and systems engineering, a use case is a list of action or event steps, typically defining the interactions between a role (known in the Unified Modeling Language as an ‘actor’) and a system, to achieve a goal.’ See [httpss://en.wikipedia.org/wiki/Use_case](httpss://en.wikipedia.org/wiki/Use_case)
+[5] ‘In software and systems engineering, a use case is a list of action or event steps, typically defining the interactions between a role (known in the Unified Modeling Language as an ‘actor’) and a system, to achieve a goal.’ See [https://en.wikipedia.org/wiki/Use_case](https://en.wikipedia.org/wiki/Use_case)
 
 [6] Recently the government had to withdraw a tender after it was found that one of the bidding companies’ employee was the author of the tender document (Aurora, 2015).
 
 [7] Broadly the Open Data movement is aimed at making datasets, which are generated using public funds and are not entangled with matters of privacy and security, freely available for everyone to access and use without restrictions of copyright, patents, etc.
 
-[8] India was one of the first few countries to create an Open Government Data Platform, [httpss://data.gov.in/](httpss://data.gov.in/). To know more about the Open Data ecosystem in India please see Sumandro Chattapadhyay’s (2015) research project report on Opening Government Data in India.
+[8] India was one of the first few countries to create an Open Government Data Platform, [https://data.gov.in/](https://data.gov.in/). To know more about the Open Data ecosystem in India please see Sumandro Chattapadhyay’s (2015) research project report on Opening Government Data in India.
 
 [9] As the name suggests, sentiment analysis involves application of computational methods (like machine learning, natural language processing, computational linguistics, etc.) for mining subjective information from texts, images or videos.
 
@@ -250,21 +250,21 @@ Sandeep Mertia is a Research Associate at The Sarai Programme, Centre for the St
 - Graham, Stephen, and Marvin, Simon. *Splintering Urbanism: Networked Infrastructures, Technological Mobilities and the Urban Condition* (London; New York: Routledge, 2001).
 - Greenfield, Adam. *Against the Smart City* (1.3 edition). Do projects (2013).
 - Halpern, Orit. *Beautiful Data: A history of Vision and Reason Since 1945* (Durham: Duke University Press, 2014).
-- Housing.com. ‘Interview With Our Data Science Team – Part 2’, *Housing Blog*, 2 July (2015), [httpss://housing.com/oldblog/2015/07/02/interview-with-our-data-science-team-part-2/](httpss://housing.com/oldblog/2015/07/02/interview-with-our-data-science-team-part-2/)
+- Housing.com. ‘Interview With Our Data Science Team – Part 2’, *Housing Blog*, 2 July (2015), [https://housing.com/oldblog/2015/07/02/interview-with-our-data-science-team-part-2/](https://housing.com/oldblog/2015/07/02/interview-with-our-data-science-team-part-2/)
 - Gartner, Inc. ‘Research Methodologies: Gartner Hype Cycle’, (n.d.) [https://www.gartner.com/technology/research/methodologies/hype-cycle.jsp](https://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)
 - Irani, Lilly. ‘Hackathons and the Making of Entrepreneurial Citizenship’, *Science, Technology and Human Values* (2015), [https://doi.org/10.1177/0162243915578486](https://doi.org/10.1177/0162243915578486)
 - Jasanoff, Sheila. ‘Future Imperfect: Science, Technology, and the Imaginations of Modernity’, in Jasanoff, Sheila. and Kim, Sang-Hyun (eds.) *Dreamscapes of Modernity: Sociotechnical Imaginaries and the Fabrication of Power* (University of Chicago Press, 2015): 1-47.
-- Kelty, Chris. ‘Too Much Democracy in All the Wrong Places: Toward a Grammar of Participation’, *Current Anthropology* 58, no. S15 (February 2017): S77-S90, [httpss://doi.org/10.1086/688705](httpss://doi.org/%7B%7Barticle.doi%7D%7D)
+- Kelty, Chris. ‘Too Much Democracy in All the Wrong Places: Toward a Grammar of Participation’, *Current Anthropology* 58, no. S15 (February 2017): S77-S90, [https://doi.org/10.1086/688705](https://doi.org/%7B%7Barticle.doi%7D%7D)
 - Khanna, Ayesha. ‘Is your City Smart Enough?’, *Indian Express*, 3 June (2012), [https://archive.indianexpress.com/news/is-your-city-smart-enough-/894919/0](https://archive.indianexpress.com/news/is-your-city-smart-enough-/894919/0)
 - Kitchin, Rob. *The Data Revolution: Big Data, Open Data, Data Infrastructures and Their Consequences (*Thousand Oaks, CA: SAGE Publications Ltd., 2014a).
 - Kitchin, Rob. ‘The Real-Time City? Big Data and Smart Urbanism’, *GeoJournal* 79.1 (2014b): 1-14.
 - Kumar, Ravish. ‘Prime Time: What is the Need for Building Smart Cities?’, Hindi News Video, NDTV News, 22 May (2015), [https://khabar.ndtv.com/video/show/prime-time/prime-time-need-of-smart-city-368423?yt](https://khabar.ndtv.com/video/show/prime-time/prime-time-need-of-smart-city-368423)
-- Lakshmi, Rama. ‘Indian Officials Want 100 “Smart Cities”. Residents just want water and power’, *The Washington Post*, 25 June (2015), [httpss://www.washingtonpost.com/world/asia_pacific/india-wants-to-build-100-smart-cities-residents-just-want-water-and-power/2015/06/25/9951df1a-0ec6-11e5-a0fe-dccfea4653ee_story.html](httpss://www.washingtonpost.com/world/asia_pacific/india-wants-to-build-100-smart-cities-residents-just-want-water-and-power/2015/06/25/9951df1a-0ec6-11e5-a0fe-dccfea4653ee_story.html)
+- Lakshmi, Rama. ‘Indian Officials Want 100 “Smart Cities”. Residents just want water and power’, *The Washington Post*, 25 June (2015), [https://www.washingtonpost.com/world/asia_pacific/india-wants-to-build-100-smart-cities-residents-just-want-water-and-power/2015/06/25/9951df1a-0ec6-11e5-a0fe-dccfea4653ee_story.html](https://www.washingtonpost.com/world/asia_pacific/india-wants-to-build-100-smart-cities-residents-just-want-water-and-power/2015/06/25/9951df1a-0ec6-11e5-a0fe-dccfea4653ee_story.html)
 - Larkin, Brian. ‘The Politics and Poetics of Infrastructure’, *Annual Review of Anthropology* 42.1 (2013): 327-343, [https://doi.org/10.1146/annurev-anthro-092412-155522](https://doi.org/10.1146/annurev-anthro-092412-155522)
 - Lynch, Kevin. *The Image of the City*, vol. 11. (Cambridge, Mass.: MIT Press, 1960).
 - Manovich, Lev. ‘Database as Symbolic Form’, *Convergence: The International Journal of Research into New Media Technologies* 5.2 (1999): 80-99.
 - Manovich, Lev. *Software Takes Command: Extending the Language of New Media* (New York; London: Bloomsbury, 2013).
-- Mattern, Shannon. ‘History of the Urban Dashboard’, *Places Journal* (2015), [httpss://placesjournal.org/article/mission-control-a-history-of-the-urban-dashboard/](httpss://placesjournal.org/article/mission-control-a-history-of-the-urban-dashboard/)
+- Mattern, Shannon. ‘History of the Urban Dashboard’, *Places Journal* (2015), [https://placesjournal.org/article/mission-control-a-history-of-the-urban-dashboard/](https://placesjournal.org/article/mission-control-a-history-of-the-urban-dashboard/)
 - Ministry of Urban Development. ‘Smart Cities Mission’, (n.d.), [https://smartcities.gov.in/](https://smartcities.gov.in/)
 - Mitchell, Timothy. *Rule of Experts: Egypt, Techno-Politics, Modernity* (Berkeley: University of California Press, 2002).
 - Mitchell, William T., and Hansen, Mark B. *Critical Terms for Media Studies* (Chicago: University of Chicago Press, 2010).
@@ -272,7 +272,7 @@ Sandeep Mertia is a Research Associate at The Sarai Programme, Centre for the St
 - PricewaterhouseCoopers. ‘Case Study: Delhi State Spatial Data Infrastructure (DSSDI)’, March (2014). Department of Information Technology, Government of NCT, Delhi.
 - Rakesh, Vanya. ‘Smart Cities in India: An Overview. Centre for Internet and Society’, 21 December (2015), [https://cis-india.org/internet-governance/blog/smart-cities-in-india-an-overview](https://cis-india.org/internet-governance/blog/smart-cities-in-india-an-overview)
 - Shah, Furhaad. ‘The First Prime Minister to Use Big Data’, 23 May (2014), [https://dataconomy.com/narendra-modi-first-prime-minister-use-big-data-analytics/](https://dataconomy.com/narendra-modi-first-prime-minister-use-big-data-analytics/)
-- Seaver, Nick. ‘Bastard Algebra’, in Bill Maurer and Tom Boellstorff (Eds.) *Data, Now Bigger & Better!* (Prickly Paradigm Press, 2015). Pre-print version available at: [httpss://socialmediacollective.files.wordpress.com/2015/11/4114c-seaver-bastardalgebra.pdf](httpss://socialmediacollective.files.wordpress.com/2015/11/4114c-seaver-bastardalgebra.pdf)
+- Seaver, Nick. ‘Bastard Algebra’, in Bill Maurer and Tom Boellstorff (Eds.) *Data, Now Bigger & Better!* (Prickly Paradigm Press, 2015). Pre-print version available at: [https://socialmediacollective.files.wordpress.com/2015/11/4114c-seaver-bastardalgebra.pdf](https://socialmediacollective.files.wordpress.com/2015/11/4114c-seaver-bastardalgebra.pdf)
 - Shelton, Taylor, Poorthuis, Ate, Graham, Mark, and Zook, Matthew. ‘Mapping the Data Shadows of Hurricane Sandy: Uncovering the Sociospatial Dimensions of “Big Data”’, *Geoforum* 52 (2014): 167-179.
 - Singer, Milton B. *When a Great Tradition Modernizes: An Anthropological Approach to Indian Civilization* (Praeger Publishers, 1972).
 - Sundaram, Ravi. *Pirate Modernity: Delhi’s Media Urbanism* (London; New York: Routledge, 2009).

@@ -133,7 +133,7 @@ The demo in these cities is, therefore, not like that of seedbanks or server far
 
 ### Alternative Hope(s)
 
-![Figure 10: Arata Isozaki, ‘Clusters in the Air for Tokyo’, (1960-62) (httpss://workjes.wordpress.com/2008/01/30/clusters-in-the-air/)](../media/twentynine.fibreculturejournal.org/files/2017/06/FCJ215_fig10.jpg)
+![Figure 10: Arata Isozaki, ‘Clusters in the Air for Tokyo’, (1960-62) (https://workjes.wordpress.com/2008/01/30/clusters-in-the-air/)](../media/twentynine.fibreculturejournal.org/files/2017/06/FCJ215_fig10.jpg)
 
 Death is not the only option. It behooves us to examine other moments where devastating disasters were responded to, to ask about different possibilities, to develop new vocabularies. To this end, we wish to demonstrate a possible alternative vision of the future of a high technology Asian city. The work of Japanese architect Arata Isozaki is shown above (Figure 10). Isozaki, like so many engineers and designers in today’s smart developments, attended MIT for training in the 1950s, leaving the war-destroyed Japan to learn about American architecture. He is famous as an affiliate of the Metabolist movement of architecture. {#para43}
 
@@ -211,9 +211,9 @@ Orit Halpern is a Strategic Hire in Interactive Design and Theory and an Associa
 
 - Markets, Market and. ‘Press Release: Smart Cities Market worth $1,134.84 Billion by 2019’, *Market and Markets* (2015), [https://www.marketsandmarkets.com/PressReleases/smart-cities.asp](https://www.marketsandmarkets.com/PressReleases/smart-cities.asp).
 
-- Masdar Institute. ‘Ground breaking marks start of Masdar City’, (2008) [httpss://www.masdar.ac.ae/component/k2/item/5623-ground-breaking-marks-start-of-masdar-city—​10-02-2008](httpss://www.masdar.ac.ae/component/k2/item/5623-ground-breaking-marks-start-of-masdar-city—​10-02-2008)
+- Masdar Institute. ‘Ground breaking marks start of Masdar City’, (2008) [https://www.masdar.ac.ae/component/k2/item/5623-ground-breaking-marks-start-of-masdar-city—​10-02-2008](https://www.masdar.ac.ae/component/k2/item/5623-ground-breaking-marks-start-of-masdar-city—​10-02-2008)
 
-- Mattern, Shannon. ‘Methodolatry and the Art of Measure: The new wave of urban data science.’ *Places: Forum of Design for the Public Realm* (November 2013), [httpss://placesjournal.org/article/methodolatry-and-the-art-of-measure/](httpss://placesjournal.org/article/methodolatry-and-the-art-of-measure/)
+- Mattern, Shannon. ‘Methodolatry and the Art of Measure: The new wave of urban data science.’ *Places: Forum of Design for the Public Realm* (November 2013), [https://placesjournal.org/article/methodolatry-and-the-art-of-measure/](https://placesjournal.org/article/methodolatry-and-the-art-of-measure/)
 
 - Moore, Rowan. ‘Masdar City, Abu Dhabi: the gulf between wisdom and folly.’ *The Guardian* (19 December 2010), [https://www.theguardian.com/artanddesign/2010/dec/19/norman-foster-masdar-city-review](https://www.theguardian.com/artanddesign/2010/dec/19/norman-foster-masdar-city-review)
 

@@ -104,6 +104,6 @@ Krebs V. ‘Mapping Networks of Terrorist Cells’, Connections 24.3 (2001),
 
 Muir, Hazel. ‘Email traffic patterns can reveal ringleaders’, New Scientist (2003), [https://www.newscientist.com/article.ns?id=dn3550](https://www.newscientist.com/article.ns).
 
-Rogers, Richard. ‘Why Map? The Techno-epistemological outlook’ (2003), [httpss://pzwart.wdka.hro.nl/mdr/pubsfolder/whymap/](httpss://pzwart.wdka.hro.nl/mdr/pubsfolder/whymap/).
+Rogers, Richard. ‘Why Map? The Techno-epistemological outlook’ (2003), [https://pzwart.wdka.hro.nl/mdr/pubsfolder/whymap/](https://pzwart.wdka.hro.nl/mdr/pubsfolder/whymap/).
 
 Williams, Phil. ‘Transnational Criminal Networks’ in Networks and Netwars: The Future of Terror, Crime, and Militancy, eds. J. Arquilla and D. Ronfeldt (Santa Monica, CA: RAND Corporation, 2001).

@@ -184,7 +184,7 @@ Benjamin Abraham is a PhD candidate at the University of Western Sydney, researc
 
 ### References
 
-- Arnott, Kristina. ‘Is it really necessary to include stupid young…’ *Facebook*. 18 January (2013). httpss://www.facebook.com/McDonaldsAU/posts/494412147268390
+- Arnott, Kristina. ‘Is it really necessary to include stupid young…’ *Facebook*. 18 January (2013). https://www.facebook.com/McDonaldsAU/posts/494412147268390
 
 - Banks, James. ‘Regulating Hate Speech Online.’ *International Review of Law, Computers & Technology* 24.3 (2010): 233–239.
 
@@ -198,7 +198,7 @@ Benjamin Abraham is a PhD candidate at the University of Western Sydney, researc
 
 - Danet, Brenda. *Cyberpl@y: Communicating Online* (Oxford: Berg, 2001).
 
-- Facebook Inc. Facebook Community Standards. *Facebook*. (2014) httpss://www.facebook.com/communitystandards
+- Facebook Inc. Facebook Community Standards. *Facebook*. (2014) https://www.facebook.com/communitystandards
 
 - Fine, Michelle. ‘Passions, Politics, and Power: Feminist Research Possibilities,’ in Fine, Michelle (ed.). *Disruptive* *Voices: The Possibilities of Feminist Research* (Ann Arbor, MI.: University of Michigan Press, 1992): 205–231.
 
@@ -224,7 +224,7 @@ Benjamin Abraham is a PhD candidate at the University of Western Sydney, researc
 
 - Levin, Abigail. *The Cost of Free Speech: Pornography, Hate Speech and Their Challenge to Liberalism* (Palgrave Macmillan: 2013).
 
-- Levine, Marne. ‘Controversial, Harmful and Hateful Speech on Facebook.’ *Facebook*. 29 May (2013). httpss://www.facebook.com/notes/facebook-safety/controversial-harmful-and-hateful-speech-on-facebook/574430655911054
+- Levine, Marne. ‘Controversial, Harmful and Hateful Speech on Facebook.’ *Facebook*. 29 May (2013). https://www.facebook.com/notes/facebook-safety/controversial-harmful-and-hateful-speech-on-facebook/574430655911054
 
 - Lewis, Helen. ‘Game Theory: Making Room for the Women.’ *The New York Times*. 25 December (2012). https://artsbeat.blogs.nytimes.com/2012/12/25/game-theory-making-room-for-the-women/
 
@@ -232,7 +232,7 @@ Benjamin Abraham is a PhD candidate at the University of Western Sydney, researc
 
 - Meyer, Robinson. ‘The Existential Crisis of Public Life Online.’ *The Atlantic*. 30 October (2014). https://www.theatlantic.com/technology/archive/2014/10/the-existential-crisis-of-public-life-online/382017/
 
-- Midworth, Luke. ‘CAnt wait until the year 2135 and the husk of…’ *Facebook*. 13 January (2013). httpss://www.facebook.com/SamKekovich/posts/10151366346445939
+- Midworth, Luke. ‘CAnt wait until the year 2135 and the husk of…’ *Facebook*. 13 January (2013). https://www.facebook.com/SamKekovich/posts/10151366346445939
 
 - Oboler, Andrew. ‘Aboriginal Memes and Online Hate’. *Online Hate Prevention Institute*. Report IR12–2, October (2012). https://ohpi.org.au/aboriginal-memes-and-online-hate/
 
@@ -240,15 +240,15 @@ Benjamin Abraham is a PhD candidate at the University of Western Sydney, researc
 
 - Polanyi, Karl. *The Great Transformation: The Political And Economic Origins Of Our Time* (Beacon Press, 2001; 1944).
 
-- Roggenbuck, Steve. ‘facebook commenting and wall-post flarf.’ *YouTube*. 19 April (2011a). httpss://www.youtube.com/watch?v=bhg4wOqfkFc
+- Roggenbuck, Steve. ‘facebook commenting and wall-post flarf.’ *YouTube*. 19 April (2011a). https://www.youtube.com/watch?v=bhg4wOqfkFc
 
-- Roggenbuck, Steve. ‘introduction to flarf poetry by steve roggenbuck.’ *YouTube*. 2 October (2011b). httpss://www.youtube.com/watch?v=8Pe_x_BkroM
+- Roggenbuck, Steve. ‘introduction to flarf poetry by steve roggenbuck.’ *YouTube*. 2 October (2011b). https://www.youtube.com/watch?v=8Pe_x_BkroM
 
 - Rose, Nikolas. *Powers of Freedom: Reframing Political Thought* (Cambridge University Press, 1999).
 
-- Sarkeesian, Anita. ‘Tropes vs Women in Video Games.’ *Kickstarter*. (2012) httpss://www.kickstarter.com/projects/566429325/tropes-vs-women-in-video-games/posts
+- Sarkeesian, Anita. ‘Tropes vs Women in Video Games.’ *Kickstarter*. (2012) https://www.kickstarter.com/projects/566429325/tropes-vs-women-in-video-games/posts
 
-- Sarkeesian, Anita. ‘User: FeministFrequency.’ *YouTube*. (2014) httpss://www.youtube.com/user/feministfrequency
+- Sarkeesian, Anita. ‘User: FeministFrequency.’ *YouTube*. (2014) https://www.youtube.com/user/feministfrequency
 
 - Schauer, Frederick. ‘The Ontology of Censorship.’ in ed. Gary Post. *Censorship and Silencing. Practices of Cultural Regulation* (Getty Publications, 1998): 147–68.
 

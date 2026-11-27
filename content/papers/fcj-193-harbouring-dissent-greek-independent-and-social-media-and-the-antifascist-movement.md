@@ -176,7 +176,7 @@ The authors would like to thank all of those who consented to be interviewed for
 
 - Giovanopoulos, Christos and Dimitris Dalakoglou. ‘From Ruptures to Eruption: Genealogy of the December 2008 Revolt in Greece’, in Antonis Vradis and Dimitris Dalakoglou (eds). *Revolt and Crisis in Greece: Between a Present Yet to Pass and a Future Still to Come* (Oakland, Baltimore, Edinburgh, London & Athens: AK Press and Occupied London, 2011), 91–114.
 
-- IMC. ‘Επερώτηση στη βουλή για το athens.indymedia’, *Athens Indymedia,* 23 January (2009), httpss://athens.indymedia.org/post/976610/
+- IMC. ‘Επερώτηση στη βουλή για το athens.indymedia’, *Athens Indymedia,* 23 January (2009), https://athens.indymedia.org/post/976610/
 
 - Inflammatory. ‘A Map of Greece’s Media Corrupt Relationships (part 1)’, *RadioBubble,* 17 June (2013), https://international.radiobubble.gr/2013/06/a-map-of-greeces-media-corrupt-relations.html
 
@@ -238,6 +238,6 @@ The authors would like to thank all of those who consented to be interviewed for
 
 - Vradis, Antonis and Dalakoglou, Dimitris (eds). *Revolt and Crisis in Greece: Between a Present Yet to Pass and a Future Still to Come* (Oakland, CA: AK Press and Occupied London, 2011).
 
-- Γεωργιάδης, Άδωνις. ‘Πριν από λίγο επιτέλους έκλεισε το indymedia. Εύγε στο @Ndendias’, *Twitter,* 12 April* *(2013), httpss://Twitter.com/AdonisGeorgiadi/status/322419853577318400
+- Γεωργιάδης, Άδωνις. ‘Πριν από λίγο επιτέλους έκλεισε το indymedia. Εύγε στο @Ndendias’, *Twitter,* 12 April* *(2013), https://Twitter.com/AdonisGeorgiadi/status/322419853577318400
 
-- Ματθαίος, Τσιμιτάκης. ‘Το facebook “κατέβασε” προφίλ χρηστών “για λόγους ταυτοποίησης”. Θύματα πολλά προφίλ αριστερών και αντιεξουσιαστών’, *Η Αυγή Online*, 5 June (2013), httpss://www.avgi.gr/article/414765/to-facebook-katebase-profil-xriston-gia-logous-tautopoiisis-thumata-polla-profil-aristeron-kai-antiexousiaston
+- Ματθαίος, Τσιμιτάκης. ‘Το facebook “κατέβασε” προφίλ χρηστών “για λόγους ταυτοποίησης”. Θύματα πολλά προφίλ αριστερών και αντιεξουσιαστών’, *Η Αυγή Online*, 5 June (2013), https://www.avgi.gr/article/414765/to-facebook-katebase-profil-xriston-gia-logous-tautopoiisis-thumata-polla-profil-aristeron-kai-antiexousiaston

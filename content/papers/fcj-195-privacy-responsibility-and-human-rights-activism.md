@@ -126,9 +126,9 @@ Becky Kazansky is Lead Programme Researcher at Tactical Technology Collective. T
 
 - Andrejevic, Mark. ‘The Work of Watching One Another: Lateral Surveillance, Risk, and Governance,’ *Surveillance & Society* 2.4 (2005): 479–497.
 
-- Ausloos, Jef. ‘Guidelines for privacy-friendly default settings,’ (KU Leuven, 2012): 34, httpss://www.cosic.esat.kuleuven.be/publications/article–2297.pdf
+- Ausloos, Jef. ‘Guidelines for privacy-friendly default settings,’ (KU Leuven, 2012): 34, https://www.cosic.esat.kuleuven.be/publications/article–2297.pdf
 
-- Balsa, Ero, Laura Brandimarte, Alessandro Acquisti, Claudia Diaz and Seda Gürses. ‘Spiny CACTOS: OSN Users Attitudes and Perceptions Towards Cryptographic Access Control Tools,’ *Internet Society*. USEC ’14, 23, San Diego, CA, USA (2014), httpss://www.Internetsociety.org/sites/default/files/02_2-paper.pdf
+- Balsa, Ero, Laura Brandimarte, Alessandro Acquisti, Claudia Diaz and Seda Gürses. ‘Spiny CACTOS: OSN Users Attitudes and Perceptions Towards Cryptographic Access Control Tools,’ *Internet Society*. USEC ’14, 23, San Diego, CA, USA (2014), https://www.Internetsociety.org/sites/default/files/02_2-paper.pdf
 
 - Barnard-Wills, David and Debi Ashenden. ‘Public Sector Engagement with Online Identity Management’, *Identity in the Information Society* 3.3 (2010): 657–674.
 
@@ -141,19 +141,19 @@ Becky Kazansky is Lead Programme Researcher at Tactical Technology Collective. T
 
 - Braman, Sandra. *Change of State: Information, Policy, and Power* (Cambridge: MIT Press, 2006): 130.
 
-- Citizen Lab. ‘Communities at Risk’ (2014), httpss://targetedthreats.net/
+- Citizen Lab. ‘Communities at Risk’ (2014), https://targetedthreats.net/
 
-- De Wolf, Ralf, Rob Heyman, and Jo Peirson. ‘Privacy by Design Through Social Requirements Analysis of Social Network Sites from a User Perspective’ (2013), httpss://www.utwente.nl/bms/steps/research/colloquia_and_seminars/colloquia/bestanden/2013–2014/pierson2013.pdf
+- De Wolf, Ralf, Rob Heyman, and Jo Peirson. ‘Privacy by Design Through Social Requirements Analysis of Social Network Sites from a User Perspective’ (2013), https://www.utwente.nl/bms/steps/research/colloquia_and_seminars/colloquia/bestanden/2013–2014/pierson2013.pdf
 
 - European Union Commission. ‘Commission Decisions on the Adequacy of the Protection of Personal Data in Third Countries’ (2014), https://ec.europa.eu/justice/data-protection/document/international-transfers/adequacy/index_en.htm
 
 - European Union. ‘Directive 95/46/EC of the European Parliament and of the Council on the Protection of Individuals with Regard to the Processing of Personal Data and on the Free Movement of Such Data,’ 24 October (1995), https://ec.europa.eu/justice/policies/privacy/docs/95–46-ce/dir1995–46_part1_en.pdf
 
-- Facebook Inc. ‘Community Standards’ (2015a), httpss://www.facebook.com/communitystandards
+- Facebook Inc. ‘Community Standards’ (2015a), https://www.facebook.com/communitystandards
 
-- Facebook Inc. ‘Government Requests Report’ (2015b), httpss://govtrequests.facebook.com/country/United%20States/2014-H1
+- Facebook Inc. ‘Government Requests Report’ (2015b), https://govtrequests.facebook.com/country/United%20States/2014-H1
 
-- Facebook Inc. Facebook Help Center. ‘What are the privacy options for groups?’ (2015c), httpss://www.facebook.com/help/220336891328465
+- Facebook Inc. Facebook Help Center. ‘What are the privacy options for groups?’ (2015c), https://www.facebook.com/help/220336891328465
 
 - Federal Trade Commission. ‘Facebook Settles FTC Charges That It Deceived Consumers By Failing To Keep Privacy Promises’ (2011), https://www.ftc.gov/news-events/press-releases/2011/11/facebook-settles-ftc-charges-it-deceived-consumers-failing-keep
 
@@ -169,14 +169,14 @@ Becky Kazansky is Lead Programme Researcher at Tactical Technology Collective. T
 
 - Hill, Kashmir, ‘Facebook Added ‘Research’ To User Agreement 4 Months After Emotion Manipulation Study’, (2014 June 30) https://www.forbes.com/sites/kashmirhill/2014/06/30/facebook-only-got-permission-to-do-research-on-users-after-emotion-manipulation-study/
 
-- Human Rights Watch. ‘With Liberty to Monitor All: How Large-Scale US Surveillance is Harming Journalism, Law, and American Democracy’ (2014). httpss://www.hrw.org/reports/2014/07/28/liberty-monitor-all–0
+- Human Rights Watch. ‘With Liberty to Monitor All: How Large-Scale US Surveillance is Harming Journalism, Law, and American Democracy’ (2014). https://www.hrw.org/reports/2014/07/28/liberty-monitor-all–0
  Iyengar, Shanto. ‘Framing Responsibility for Political Issues: The Case of Poverty’, *Political Behavior* 12.1 *Cognition and Political Action* (1990): 19–40.
 
 - Kirkpatrick, David. *The Facebook Effect: The Inside Story of the Company That Is Connecting the World* (New York: Simon & Schuster, 2010).
 
 - Marx, Gary. ‘A Tack in the Shoe and Taking off the Shoe: Neutralization and Counter-Neutralization Dynamics’, (2009) https://web.mit.edu/gtmarx/www/shoe.pdf
 
-- Meyer, D. ‘Facebook Prism Case Heads to Europe’s Highest Court’ (2014 June 18) httpss://gigaom.com/2014/06/18/facebook-prism-case-heads-to-europes-highest-court/
+- Meyer, D. ‘Facebook Prism Case Heads to Europe’s Highest Court’ (2014 June 18) https://gigaom.com/2014/06/18/facebook-prism-case-heads-to-europes-highest-court/
 
 - Nissenbaum, Helen. *Privacy in Context: Technology, Policy, and the Integrity of Social Life* (Stanford, CA: Stanford Law Books, 2010).
 
@@ -198,8 +198,8 @@ Becky Kazansky is Lead Programme Researcher at Tactical Technology Collective. T
 
 - Stallman, Richard. ‘How Much Surveillance Can Democracy Withstand?’ (2013 October 14) https://www.wired.com/2013/10/a-necessary-evil-what-it-takes-for-democracy-to-survive-surveillance/
 
-- Tactical Technology Collective and Front Line Defenders. ‘Security in a Box’, (2015) httpss://securityinabox.org/en
+- Tactical Technology Collective and Front Line Defenders. ‘Security in a Box’, (2015) https://securityinabox.org/en
 
-- Tactical Technology Collective and Front Line Defenders. ‘Towards Holistic Security for Rights Advocates’, (2014) httpss://tacticaltech.org/holistic-security
+- Tactical Technology Collective and Front Line Defenders. ‘Towards Holistic Security for Rights Advocates’, (2014) https://tacticaltech.org/holistic-security
 
 - Tsing, Anna Lowenhaupt. *Friction: An Ethnography of Global Connections* (Princeton N.J.: Princeton University Press, 2005).

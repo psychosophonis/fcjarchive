@@ -162,7 +162,7 @@ I would like to thank the anonymous reviewers, editor Glen Fuller, and Grant Bol
 
 - Lasn, Kalle. *Meme Wars: The Creative Destruction of Neoclassical Economics* (New York: Seven Stories Press, 2012).
 
-- Lotan, Gilad. ‘Israel, Gaza, War & Data’, *Medium* (2014, August 5), httpss://medium.com/i-data/israel-gaza-war-data-a54969aeb23e.
+- Lotan, Gilad. ‘Israel, Gaza, War & Data’, *Medium* (2014, August 5), https://medium.com/i-data/israel-gaza-war-data-a54969aeb23e.
 
 - Mackey, Robert. ‘Young Israelis Fight Hashtag Battle to Defend #IsraelUnderFire’, *The New York Times* (July 15, 2014), https://www.nytimes.com/2014/07/16/world/middleeast/young-israelis-fight-hashtag-battle-to-defend-israelunderfire.html.
 
@@ -180,11 +180,11 @@ I would like to thank the anonymous reviewers, editor Glen Fuller, and Grant Bol
 
 - Papacharissi, Zizi. *Affective Publics: Sentiment, Technology, and Politics* (Oxford: Oxford University Press, 2014).
 
-- Penney, Joel. ‘Meme Warriors and Media Viruses: Theorizing the Persuasive Political Power of the Web’ [videotaped conference presentation], *YouTube* (2014, May 12), httpss://www.youtube.com/watch?v=_y5K88LHPlI
+- Penney, Joel. ‘Meme Warriors and Media Viruses: Theorizing the Persuasive Political Power of the Web’ [videotaped conference presentation], *YouTube* (2014, May 12), https://www.youtube.com/watch?v=_y5K88LHPlI
 
 - Saler, Michael. *As If: Modern Enchantment and the Literary Prehistory of Virtual Reality* (Oxford: Oxford University Press, 2012) [Kindle edition].
 
-- Sharbaugh, Patrick. ‘Lulz Will Find a Way: How Meme Culture Is Empowering Civic Engagement in the Socialist Republic of Vietnam’ [videotaped conference presentation], *YouTube* (2014, May 12), httpss://www.youtube.com/watch?v=_y5K88LHPlI.
+- Sharbaugh, Patrick. ‘Lulz Will Find a Way: How Meme Culture Is Empowering Civic Engagement in the Socialist Republic of Vietnam’ [videotaped conference presentation], *YouTube* (2014, May 12), https://www.youtube.com/watch?v=_y5K88LHPlI.
 
 - Shifman, Limor. *Memes in Digital Culture* (Cambridge, MA: The MIT Press, 2013).
 

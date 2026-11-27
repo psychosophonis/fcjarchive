@@ -91,7 +91,7 @@ Erin Manning is a professor in the Faculty of Fine Arts at Concordia University 
 ### References
 
 - Ausick, Paul. ‘Student debt repayment is completely different for white and black Americans’, *Usa Today* July 30 (2019),
- [httpss://www.usatoday.com/story/money/2019/07/30/student-loans-crisis-debt-repayment-different-for-white-and-black-americans/39820959/](httpss://www.usatoday.com/story/money/2019/07/30/student-loans-crisis-debt-repayment-different-for-white-and-black-americans/39820959/)
+ [https://www.usatoday.com/story/money/2019/07/30/student-loans-crisis-debt-repayment-different-for-white-and-black-americans/39820959/](https://www.usatoday.com/story/money/2019/07/30/student-loans-crisis-debt-repayment-different-for-white-and-black-americans/39820959/)
 
 - Battiste, Marie. *Decolonizing Education: Nourishing the Learning Spirit* (Saskatoon: Purich Publishing Ltd, 2013).
 
@@ -103,10 +103,10 @@ Erin Manning is a professor in the Faculty of Fine Arts at Concordia University 
 
 - Davidson, Cathy N. *The New Education: How to Revolutionize the University to Prepare Students for a World In Flux* (New York: Basic Books, 2017).
 
-- Ellis, Kate and Smith, Stephen. ‘Shackled Legacy’, *APM Reports* September 4 (2017), [httpss://www.apmreports.org/story/2017/09/04/shackled-legacy](httpss://www.apmreports.org/story/2017/09/04/shackled-legacy)
+- Ellis, Kate and Smith, Stephen. ‘Shackled Legacy’, *APM Reports* September 4 (2017), [https://www.apmreports.org/story/2017/09/04/shackled-legacy](https://www.apmreports.org/story/2017/09/04/shackled-legacy)
 
 - Garberoglio, Carrie; Cawthon, Stephanie; Sales, Adam. ‘Deaf People and Educational Attainment, White Paper’ (2017),
- [httpss://www.nationaldeafcenter.org/sites/default/files/DeafPeopleandEducational_Attainment_white_paper.pdf](httpss://www.nationaldeafcenter.org/sites/default/files/DeafPeopleandEducational_Attainment_white_paper.pdf)
+ [https://www.nationaldeafcenter.org/sites/default/files/DeafPeopleandEducational_Attainment_white_paper.pdf](https://www.nationaldeafcenter.org/sites/default/files/DeafPeopleandEducational_Attainment_white_paper.pdf)
 
 - Geiger, Roger. *The History of American Higher Education* (Princeton: Princeton University Press, 2014).
 
@@ -120,7 +120,7 @@ Erin Manning is a professor in the Faculty of Fine Arts at Concordia University 
  [https://bostonreview.net/forum/robin-d-g-kelley-black-study-black-struggle](https://bostonreview.net/forum/robin-d-g-kelley-black-study-black-struggle)
 
 - Kuusisto, Stephen. ‘Universal Design and Utopian Insistence’, *Planet of the Blind* June (2019),
- [httpss://stephenkuusisto.com/2019/06/04/universal-design-and-utopian-insistence/](httpss://stephenkuusisto.com/2019/06/04/universal-design-and-utopian-insistence/)
+ [https://stephenkuusisto.com/2019/06/04/universal-design-and-utopian-insistence/](https://stephenkuusisto.com/2019/06/04/universal-design-and-utopian-insistence/)
 
 - Murphie, Andrew. ‘Clone Your Technics – Research-Creation, Radical Empiricism and the Constraints of Models’, *Inflexions: A Journal for Research-Creation* 1, (2008), [https://www.inflexions.org/n1_murphiehtml.html](https://www.inflexions.org/n1_murphiehtml.html)
 
@@ -131,15 +131,15 @@ Erin Manning is a professor in the Faculty of Fine Arts at Concordia University 
 - Readings, Bill. *The University in Ruins* (Boston: Harvard UP, 1997).
 
 - Savarese, DJ. ‘Passive Plants’, *The Iowa Review* 47.1 (2017),
- [httpss://iowareview.org/from-the-issue/volume-47-issue-1-—-spring-2017/passive-plants](httpss://iowareview.org/from-the-issue/volume-47-issue-1-—-spring-2017/passive-plants)
+ [https://iowareview.org/from-the-issue/volume-47-issue-1-—-spring-2017/passive-plants](https://iowareview.org/from-the-issue/volume-47-issue-1-—-spring-2017/passive-plants)
 
 - Wiencek, Henry. ‘The Dark Side of Thomas Jefferson’, *Smithsonian Magazine* (2012),
- [httpss://www.smithsonianmag.com/history/the-dark-side-of-thomas-jefferson-35976004/](httpss://www.smithsonianmag.com/history/the-dark-side-of-thomas-jefferson-35976004/)
+ [https://www.smithsonianmag.com/history/the-dark-side-of-thomas-jefferson-35976004/](https://www.smithsonianmag.com/history/the-dark-side-of-thomas-jefferson-35976004/)
 
 - Wilder, Craig Steven. *Ebony and Ivy: Race, Slavery, and the Troubled History of America’s Universities* (New York: Bloomsbury, 2013).
 
 - Williams, Jeffrey J. ‘Innovation for What? The Politics of Inequality in Higher Education’, *Dissent Magazine* (Winter, 2016),
- [httpss://www.dissentmagazine.org/article/innovation-for-what-the-politics-of-inequality-in-higher-education](httpss://www.dissentmagazine.org/article/innovation-for-what-the-politics-of-inequality-in-higher-education)
+ [https://www.dissentmagazine.org/article/innovation-for-what-the-politics-of-inequality-in-higher-education](https://www.dissentmagazine.org/article/innovation-for-what-the-politics-of-inequality-in-higher-education)
 
 - —. ‘Debt Education: Bad for the Young, Bad for America’, *Dissent Magazine* (Summer, 2006),
- [httpss://www.dissentmagazine.org/article/debt-education-bad-for-the-young-bad-for-america](httpss://www.dissentmagazine.org/article/debt-education-bad-for-the-young-bad-for-america)
+ [https://www.dissentmagazine.org/article/debt-education-bad-for-the-young-bad-for-america](https://www.dissentmagazine.org/article/debt-education-bad-for-the-young-bad-for-america)

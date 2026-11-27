@@ -110,7 +110,7 @@ Melissa Gregg is a Principal Engineer at Intel Corporation researching the futur
 
 - [2] A case in point: In 2011, Peter Theil announced ’20 under 20′, a $100,000 fellowship for young people to gain experience and mentoring in the pursuit of a new business opportunity provided they left university for the experience.
 
-- [3] My title for this paper draws on the name of an Intel corporate education initiative, ‘Code for Good’, one of the key partners for the National Day of Civic Hacking. See httpss://software.intel.com/en-us/codeforgood. As I hope is clear, my reflections neither advance nor disown a unified view on civic hacking as defined by Intel; in different parts of the company, hackathons serve different purposes and give rise to a range of experiences beyond those identified in this discussion.
+- [3] My title for this paper draws on the name of an Intel corporate education initiative, ‘Code for Good’, one of the key partners for the National Day of Civic Hacking. See https://software.intel.com/en-us/codeforgood. As I hope is clear, my reflections neither advance nor disown a unified view on civic hacking as defined by Intel; in different parts of the company, hackathons serve different purposes and give rise to a range of experiences beyond those identified in this discussion.
 
 - [4] In what follows, I show how hacking is ripe for the kind of analytical attention that, at an earlier moment, the Birmingham Centre for Contemporary Cultural Studies applied to the term ‘mugging’. In *Policing the Crisis* (Hall et al, 1978), the politics of a new era were shown to have been transduced on to the figure of the mugger, whose actions offered an occasion for moral panic and thus an outlet for the anxieties of a particular class formation. Invoking the word ‘mugging’ in popular news coverage was to deploy a signifier that summoned a complex history of class and race relations already attached to the term in its North American context. Today, the power dynamics of the digital age are efficiently accommodated in the term hacker, even if the class and racial make-up of the agent is entirely different from the black teens of Thatcherite Britain.
 
@@ -128,9 +128,9 @@ Melissa Gregg is a Principal Engineer at Intel Corporation researching the futur
 
 - Ames, Morgan. From *MIT to Paraguay: A Critical Historical and Ethnographic Analysis of One Laptop Per Child*. Doctoral Dissertation, Stanford University. May 2013.
 
-- Ancona, Lauren. ‘Stop Waiting for Permission: How civic hacking changed the way I saw my city —and myself’, *Medium* (November 24, 2014): httpss://medium.com/@laurenancona/stop-waiting-for-permission—23ce71aee8f8
+- Ancona, Lauren. ‘Stop Waiting for Permission: How civic hacking changed the way I saw my city —and myself’, *Medium* (November 24, 2014): https://medium.com/@laurenancona/stop-waiting-for-permission—23ce71aee8f8
 
-- Andrews, Gus. ‘Finding Childcare for the UX Sprint’, *Open ITP – Internet Tools Project* (April 3, 2014) httpss://openitp.org/news-events/finding-childcare-for-the-ux-sprint.html
+- Andrews, Gus. ‘Finding Childcare for the UX Sprint’, *Open ITP – Internet Tools Project* (April 3, 2014) https://openitp.org/news-events/finding-childcare-for-the-ux-sprint.html
 
 - Berardi, Franco “Bifo”. *The Soul at Work. From Alienation to Autonomy*, trans. Francesca Cadel and Giuseppina Mecchia (MIT Press, 2009)
 

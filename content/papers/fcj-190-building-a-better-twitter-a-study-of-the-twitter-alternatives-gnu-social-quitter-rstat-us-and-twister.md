@@ -235,7 +235,7 @@ Robert W. Gehl is assistant professor of communication at the University of Utah
 
  [2] All interviews were conducted via email or in person between May 2014 and February 2015. They were preceded with the University of Utah’s Institutional Review Board consent notices. Interviews took place over several days with multiple follow-up sessions. I would like to express my sincere thanks to the interviewees, who deeply educated and challenged my understanding of making alternative social media.
 
- [3] Twitter’s Developer Agreement and Policy (httpss://dev.Twitter.com/overview/terms/agreement-and-policy, last accessed 2 November 2014) specifically prohibits reverse engineering: ‘You will not or attempt to (and will not allow others to)… reverse engineer, decompile, disassemble or translate the Twitter API, or otherwise attempt to derive source code, trade secrets or know-how in or underlying any Twitter API or any portion thereof.’ The legality of such a clause is disputable (Samuelson and Scotchmer 2002). It is likely there to constrain third party developers who seek to build applications on top of Twitter’s platform.
+ [3] Twitter’s Developer Agreement and Policy (https://dev.Twitter.com/overview/terms/agreement-and-policy, last accessed 2 November 2014) specifically prohibits reverse engineering: ‘You will not or attempt to (and will not allow others to)… reverse engineer, decompile, disassemble or translate the Twitter API, or otherwise attempt to derive source code, trade secrets or know-how in or underlying any Twitter API or any portion thereof.’ The legality of such a clause is disputable (Samuelson and Scotchmer 2002). It is likely there to constrain third party developers who seek to build applications on top of Twitter’s platform.
 
 ### References
 
@@ -271,7 +271,7 @@ Robert W. Gehl is assistant professor of communication at the University of Utah
 
 - Ingle, Kathryn A. *Reverse Engineering* (New York: McGraw-Hill, 1994).
 
-- jpfox. ‘Possible to Add a Dedicated Url Field?’ GitHub (14 January, 2014) httpss://github.com/miguelfreitas/twister-core/issues/63
+- jpfox. ‘Possible to Add a Dedicated Url Field?’ GitHub (14 January, 2014) https://github.com/miguelfreitas/twister-core/issues/63
 
 - Kitchin, Rob and Martin Dodge. *Code/space: Software and Everyday Life* (Cambridge, Mass.: MIT Press, 2011).
 
@@ -281,7 +281,7 @@ Robert W. Gehl is assistant professor of communication at the University of Utah
 
 - Nichols, Carol. ‘Future Direction of Rstat.us Development’. Email Archive. Librelist Archives (7 January, 2012a) https://librelist.com/browser//rstatus/2012/1/7/future-direction-of-rstat-us-development/
 
-- Nichols, Carol. ‘Changing the License to CC0 #443’. Repository. GitHub (11 January, 2012b) httpss://github.com/hotsh/rstat.us/pull/443
+- Nichols, Carol. ‘Changing the License to CC0 #443’. Repository. GitHub (11 January, 2012b) https://github.com/hotsh/rstat.us/pull/443
 
 - Nichols, Carol. ‘Certificate Authority’. Mailing list archive. Librelist Archives (10 July, 2012c) https://librelist.com/browser//rstatus/2012/7/10/certificate-authority/
 
@@ -295,7 +295,7 @@ Robert W. Gehl is assistant professor of communication at the University of Utah
 
 - Siles, Ignacio. ‘From Online Filter to Web Format: Articulating Materiality and Meaning in the Early History of Blogs’. *Social Studies of Science* 41 (September, 2011): 737–58.
 
-- Sippey, Michael. ‘Changes Coming in Version 1.1 of the Twitter API’. Twitter Blogs. (16 August, 2012) httpss://blog.Twitter.com/2012/changes-coming-to-Twitter-api
+- Sippey, Michael. ‘Changes Coming in Version 1.1 of the Twitter API’. Twitter Blogs. (16 August, 2012) https://blog.Twitter.com/2012/changes-coming-to-Twitter-api
 
 - Terranova, Tiziana. ‘Free Labor: Producing Culture for the Digital Economy’. *Social Text* 18.2 (2000): 33–58.
 

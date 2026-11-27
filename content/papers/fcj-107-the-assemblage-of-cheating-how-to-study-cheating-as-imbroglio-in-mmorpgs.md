@@ -326,7 +326,7 @@ Deleuze, Gilles and Guattari, Felix. *A Thousand Plateaus* (London: Athlone, 198
 
 Deleuze, Gilles. *Foucault* (London: Athlone, 1988).
 
-De Paoli, Stefano and Kerr, Aphra. (2010), ‘ ”We Will Always Be One Step Ahead of Them”: A Case Study on the Economy of Cheating in MMORPGs’ in *Journal of Virtual Worlds Research* 2.4, [httpss://journals.tdl.org/jvwr/article/view/865](httpss://journals.tdl.org/jvwr/article/view/865)
+De Paoli, Stefano and Kerr, Aphra. (2010), ‘ ”We Will Always Be One Step Ahead of Them”: A Case Study on the Economy of Cheating in MMORPGs’ in *Journal of Virtual Worlds Research* 2.4, [https://journals.tdl.org/jvwr/article/view/865](https://journals.tdl.org/jvwr/article/view/865)
 
 De Paoli, Stefano., Teli, Maurizio and D’Andrea, Vincenzo.  ‘*Free and open source licenses in community life*‘, *FirstMonday*, 13.10, (2008), [https://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2064/2030](https://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2064/2030)
 

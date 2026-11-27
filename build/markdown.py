@@ -62,6 +62,16 @@ BOILERPLATE = (
     re.compile(r"(?is)<p[^>]*>\s*when commenting on this article.*?</p>"),
 )
 
+# `httpss://` — a scheme the web has never had. It is in the WordPress database
+# itself (1,502 times in the 2026-10-22 dump, 1,386 in the crawled pages), not
+# in anything the authors wrote: an http -> https search-and-replace run over
+# the database also rewrote links that were ALREADY https. Every one is a dead
+# link in the mirror. Restoring the scheme restores what was published; it is a
+# repair of the platform, not an edit of the prose, which is why it can run in
+# the shared converter. The pattern cannot match a real URL, so it cannot touch
+# anything else.
+DOUBLED_SCHEME = re.compile(r"(?i)\bhttpss://")
+
 
 # ==========================================================================
 # metadata
@@ -142,7 +152,7 @@ def to_markdown(content: str, rewrite_url=lambda u: u) -> str:
     map mirror URLs onto archive paths without this module knowing anything
     about the archive's layout.
     """
-    s = content
+    s = DOUBLED_SCHEME.sub("https://", content)
     for pattern in BOILERPLATE:
         s = pattern.sub("", s)
     s = re.sub(r"(?is)<(script|style)[^>]*>.*?</\1>", "", s)

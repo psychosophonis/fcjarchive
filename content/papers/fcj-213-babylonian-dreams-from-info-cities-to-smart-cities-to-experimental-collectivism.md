@@ -220,7 +220,7 @@ Clemens Apprich (PhD) is a Research Associate at the Centre for Digital Cultures
 
 - Halpern, Orit, LeCavalier, Jesse, Calvillo, Nerea and Pietsch, Wolfgang. ‘Test-Bed Urbanism’, *Public Culture* 25.2 (2013): 273-306.
 
-- Howard, Ebenezer. *Garden Cities of To-Morrow* (London: Swan Sonnenschein & Co, 1902), [httpss://archive.org/details/gardencitiestom00howagoog](httpss://archive.org/details/gardencitiestom00howagoog)
+- Howard, Ebenezer. *Garden Cities of To-Morrow* (London: Swan Sonnenschein & Co, 1902), [https://archive.org/details/gardencitiestom00howagoog](https://archive.org/details/gardencitiestom00howagoog)
 
 - Hui, Yuk and Halpin, Harry. ‘Collective Individuation: The Future of the Social Web’, in Geert Lovink and Miriam Rasch (eds.) *Unlike Us Reader. Social Media Monopolies and their Alternatives* (Amsterdam: Institute of Network Cultures, 2013), 103-116.
 

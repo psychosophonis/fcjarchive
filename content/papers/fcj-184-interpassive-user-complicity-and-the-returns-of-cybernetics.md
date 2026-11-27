@@ -195,7 +195,7 @@ I thank Nick Dyer-Witheford, Atle Mikkola Kjøsen and anonymous referees for rea
 
 ### Notes
 
-- [1] See my conversation with Patricia Clough and Alexander Galloway ‘On Governance, Blackboxing, Measure, Body, Affect and Apps: A Conversation with Patricia Clough and Alexander R. Galloway’, in this issue of *The Fiberculture Journal*. For more on “the body-across-platforms,” see: Clough, Patricia. ‘Feminist Theory: Bodies. Science and Technology’, in Bryan S. Turner (ed.) *Routledge Handbook of Body Studies* (New York: Routledge, 2012), 94—105. Also, see this talk: ‘Patricia Clough: Feminist Theory, Bodies and Technoscience’, Bringing the Body Back in Humanities and Social Science, a conference by the Committee for the Study of Religion at the CUNY Graduate Center, February 24 (2012), httpss://vimeo.com/41526429.
+- [1] See my conversation with Patricia Clough and Alexander Galloway ‘On Governance, Blackboxing, Measure, Body, Affect and Apps: A Conversation with Patricia Clough and Alexander R. Galloway’, in this issue of *The Fiberculture Journal*. For more on “the body-across-platforms,” see: Clough, Patricia. ‘Feminist Theory: Bodies. Science and Technology’, in Bryan S. Turner (ed.) *Routledge Handbook of Body Studies* (New York: Routledge, 2012), 94—105. Also, see this talk: ‘Patricia Clough: Feminist Theory, Bodies and Technoscience’, Bringing the Body Back in Humanities and Social Science, a conference by the Committee for the Study of Religion at the CUNY Graduate Center, February 24 (2012), https://vimeo.com/41526429.
 
 - [2] Lev Manovich’s biological metaphor from his book *Software Takes Command* (2013).
 
@@ -225,7 +225,7 @@ I thank Nick Dyer-Witheford, Atle Mikkola Kjøsen and anonymous referees for rea
 
 - [15] In the earlier published version of this argument in 1996, in the essay ‘On Totalitarian Interactivity,’ Manovich even calls interactivity “totalitarian”: ‘interactive computer installations indeed represent an advanced form of audience manipulation, where the subject is put within a structure very similar to an experimental setup of a psychological laboratory or a high-tech torture chamber of CIA or KGB, the kind we saw frequently in spy films of the Cold War era’ (1996). Also see Alexander Galloway’s discussion of this essay in *The Interface Effect* (Cambridge, UK: Polity, 2012), 6—9.
 
-- [16] See Wikipeida entry on the ‘Third Platform’: httpss://en.wikipedia.org/wiki/Third_platform.
+- [16] See Wikipeida entry on the ‘Third Platform’: https://en.wikipedia.org/wiki/Third_platform.
 
 - [17] Franco ‘Bifo’ Berardi’s lecture ‘Abstraction and Poetry in the Age of Financial Capitalism’ at the University of Western Ontario on 29 November 2014.
 

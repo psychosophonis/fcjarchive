@@ -122,9 +122,9 @@ Erin Manning is a professor in the Faculty of Fine Arts at Concordia University 
 
 [3] See Denise Ferreira da Silva ‘On Difference Without Separability’ in the catalogue for the 32a Sao Paolo Biennale, Incerteza Viva (Living Uncertainty). Sao Paolo Fundacao Biennal de Sao Paolo, 2016.
 
-[4] [httpss://www.stedelijk.nl/en/events/studium-generale-rietveld-academie-4](httpss://www.stedelijk.nl/en/events/studium-generale-rietveld-academie-4)
+[4] [https://www.stedelijk.nl/en/events/studium-generale-rietveld-academie-4](https://www.stedelijk.nl/en/events/studium-generale-rietveld-academie-4)
 
-[5] [httpss://www.uarts.edu/node/41511](httpss://www.uarts.edu/node/41511).
+[5] [https://www.uarts.edu/node/41511](https://www.uarts.edu/node/41511).
 
 [6] [https://www.ralphsavarese.com/category/djs-writings/](https://www.ralphsavarese.com/category/djs-writings/)
 
@@ -132,15 +132,15 @@ Erin Manning is a professor in the Faculty of Fine Arts at Concordia University 
 
 [8] For an important piece on facilitated communication and the question of independence, see Ralph Savarese ‘Anna Stubblefield and Facilitated Communication’, in Steve Kuusisto. *Planet of the Blind.*
 
-[9] [httpss://iowareview.org/from-the-issue/volume-47-issue-1-—-spring-2017/passive-plants](httpss://iowareview.org/from-the-issue/volume-47-issue-1-—-spring-2017/passive-plants).
+[9] [https://iowareview.org/from-the-issue/volume-47-issue-1-—-spring-2017/passive-plants](https://iowareview.org/from-the-issue/volume-47-issue-1-—-spring-2017/passive-plants).
 
-[10] [httpss://iowareview.org/from-the-issue/volume-47-issue-1-—-spring-2017/passive-plants](httpss://iowareview.org/from-the-issue/volume-47-issue-1-—-spring-2017/passive-plants).
+[10] [https://iowareview.org/from-the-issue/volume-47-issue-1-—-spring-2017/passive-plants](https://iowareview.org/from-the-issue/volume-47-issue-1-—-spring-2017/passive-plants).
 
-[11] [httpss://iowareview.org/from-the-issue/volume-47-issue-1-—-spring-2017/passive-plants](httpss://iowareview.org/from-the-issue/volume-47-issue-1-—-spring-2017/passive-plants).
+[11] [https://iowareview.org/from-the-issue/volume-47-issue-1-—-spring-2017/passive-plants](https://iowareview.org/from-the-issue/volume-47-issue-1-—-spring-2017/passive-plants).
 
 ### References
 
-- Boren, Ryan. ‘Anxiety, Ambiguity, and Autistic Perception’, *Ryan Boren* blog, May 3, 2018. [httpss://boren.blog/2018/05/03/anxiety-ambiguity-and-autistic-perception/](httpss://boren.blog/2018/05/03/anxiety-ambiguity-and-autistic-perception/)
+- Boren, Ryan. ‘Anxiety, Ambiguity, and Autistic Perception’, *Ryan Boren* blog, May 3, 2018. [https://boren.blog/2018/05/03/anxiety-ambiguity-and-autistic-perception/](https://boren.blog/2018/05/03/anxiety-ambiguity-and-autistic-perception/)
 
 - Chandler, Nahum. *X- The Problem of the Negro as a Problem for Thought* (New York: Fordham University Press, 2014).
 

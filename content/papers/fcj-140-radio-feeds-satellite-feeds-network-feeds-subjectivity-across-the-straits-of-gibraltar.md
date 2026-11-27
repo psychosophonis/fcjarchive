@@ -261,7 +261,7 @@ Nicholas Knouf is a PhD candidate in Information Science and Andrew W. Mellon Fo
 
 - Hill, Benjamin Mako. ‘Software (,) Politics and Indymedia’, (2003), https://mako.cc/writing/mute-indymedia_software.html.
 
-- Holmes, Brian. ‘Coded Utopia: Makrolab, or the art of transition’, (27th March 2007), httpss://brianholmes.wordpress.com/2007/03/27/coded-utopia/.
+- Holmes, Brian. ‘Coded Utopia: Makrolab, or the art of transition’, (27th March 2007), https://brianholmes.wordpress.com/2007/03/27/coded-utopia/.
 
 - Indymedia Estrecho/Madiaq. ‘Indymedia Estrecho/Madiaq’, (2011), https://estrecho.indymedia.org/.
 

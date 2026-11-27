@@ -191,7 +191,7 @@ Iwabuchi, Koichi. ‘Nostalgia for a (Different) Asian Modernity: Media Consumpt
 
 Japanese Economy Division. ‘Japan’s Video Game Industry’, *Japan Economic Monthly* 2 (May, 2004): 8-15.
 
-Jin, Ge. ‘Chinese Gold Farmers in the Game World’, *Consumers, Commodities & Consumption* [Newsletter of the Consumer Studies Research Network] 7.2 (May, 2006), [httpss://netfiles.uiuc.edu/dtcook/www/CCCnewsletter/7-2/jin.htm](httpss://netfiles.uiuc.edu/dtcook/www/CCCnewsletter/7-2/jin.htm).
+Jin, Ge. ‘Chinese Gold Farmers in the Game World’, *Consumers, Commodities & Consumption* [Newsletter of the Consumer Studies Research Network] 7.2 (May, 2006), [https://netfiles.uiuc.edu/dtcook/www/CCCnewsletter/7-2/jin.htm](https://netfiles.uiuc.edu/dtcook/www/CCCnewsletter/7-2/jin.htm).
 
 Kang, Jerry. ‘Cyber-Race’, *Harvard Law Review* 113 (2000): 1131-1208.
 

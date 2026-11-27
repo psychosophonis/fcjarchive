@@ -108,9 +108,9 @@ This issue of *The Fibreculture Journal* was edited by Armin Beverungen and Flor
 
 - Kittler, Friedrich A. ‘The City is a Medium’, *New Literary History* 27.4 (1996): 717-729.
 
-- Mattern, Shannon. ‘Mission Control: A History of the Urban Dashboard’, *Places Journal*, March (2015), [httpss://placesjournal.org/article/mission-control-a-history-of-the-urban-dashboard/](httpss://placesjournal.org/article/mission-control-a-history-of-the-urban-dashboard/)
+- Mattern, Shannon. ‘Mission Control: A History of the Urban Dashboard’, *Places Journal*, March (2015), [https://placesjournal.org/article/mission-control-a-history-of-the-urban-dashboard/](https://placesjournal.org/article/mission-control-a-history-of-the-urban-dashboard/)
 
-- Mattern, Shannon. ‘Instrumental City: The View from Hudson Yards, circa 2019’, *Places Journal*, April (2016), [httpss://placesjournal.org/article/instrumental-city-new-york-hudson-yards/](httpss://placesjournal.org/article/instrumental-city-new-york-hudson-yards/)
+- Mattern, Shannon. ‘Instrumental City: The View from Hudson Yards, circa 2019’, *Places Journal*, April (2016), [https://placesjournal.org/article/instrumental-city-new-york-hudson-yards/](https://placesjournal.org/article/instrumental-city-new-york-hudson-yards/)
 
 - Medina, Eden. *Cybernetic Revolutionaries: Technology and Politics in Allende’s Chile* (Cambridge, MA: MIT Press, 2011).
 

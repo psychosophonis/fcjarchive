@@ -155,4 +155,4 @@ Ulises A. Mejias is assistant professor in the Communication Studies Department 
 
 - York, Jillian C. ‘Syria’s Twitter spambots,’ *The Guardian*, 21 April (2011), https://www.guardian.co.uk/commentisfree/2011/apr/21/syria-twitter-spambots-pro-revolution.
 
-- ———. ‘This Week in Internet Censorship,’ *Electronic Frontier Foundation*, 15 June (2011), httpss://www.eff.org/deeplinks/2011/06/week-internet-censorship.
+- ———. ‘This Week in Internet Censorship,’ *Electronic Frontier Foundation*, 15 June (2011), https://www.eff.org/deeplinks/2011/06/week-internet-censorship.

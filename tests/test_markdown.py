@@ -133,6 +133,34 @@ class TestDialectRoundTrip(unittest.TestCase):
                          "First.\n\nSecond.\n")
 
 
+class TestDoubledScheme(unittest.TestCase):
+    """fcj-problems.md P11: `httpss://` is database damage, not authorship."""
+
+    def test_the_doubled_scheme_is_repaired_in_target_and_text(self):
+        md = markdown.to_markdown(
+            '<p><a href="httpss://youtu.be/x">httpss://youtu.be/x</a></p>')
+        self.assertNotIn("httpss", md)
+        self.assertIn("[https://youtu.be/x](https://youtu.be/x)", md)
+
+    def test_ordinary_schemes_are_untouched(self):
+        md = markdown.to_markdown(
+            "<p>https://a.org/ and http://b.org/ and a word like plans://</p>")
+        self.assertIn("https://a.org/", md)
+        self.assertIn("http://b.org/", md)
+
+    def test_the_archive_carries_none(self):
+        content = os.path.join(ROOT, "content")
+        found = []
+        for base, _dirs, files in os.walk(content):
+            for name in files:
+                if name.endswith(".md"):
+                    path = os.path.join(base, name)
+                    with open(path, encoding="utf-8") as fh:
+                        if "httpss://" in fh.read():
+                            found.append(os.path.relpath(path, content))
+        self.assertEqual(found, [])
+
+
 class TestEmphasisSpacing(unittest.TestCase):
     def test_space_inside_the_tag_moves_outside_the_markers(self):
         """`<em>Uzume </em>(2002)` must not become `*Uzume*(2002)`.

@@ -158,7 +158,7 @@ Dr. Sarah Barns is a Postdoctoral Research Fellow based at the Institute for Cul
 
 [1] The Centre for Urban Science and Progress (CUSP), Cornell NYC Tech and the Columbia University Institute for Data Sciences and Engineering were all supported through the Applied Sciences NYC Initiative launched under former New York Mayor Michael Bloomberg.
 
-[2] CUSP has also been discussed by Anthony Townsend on Medium, at [httpss://medium.com/the-new-urban-science/two-approaches-to-urban-sensing-synoptic-vs-ground-truth-b584a7285ecb](httpss://medium.com/the-new-urban-science/two-approaches-to-urban-sensing-synoptic-vs-ground-truth-b584a7285ecb)
+[2] CUSP has also been discussed by Anthony Townsend on Medium, at [https://medium.com/the-new-urban-science/two-approaches-to-urban-sensing-synoptic-vs-ground-truth-b584a7285ecb](https://medium.com/the-new-urban-science/two-approaches-to-urban-sensing-synoptic-vs-ground-truth-b584a7285ecb)
 
 [3] Eric Paulos’ ‘Urban Computing’ conference of 2006 is credited as one of the first events dedicated to ‘urban informatics’ in its present form.
 
@@ -284,9 +284,9 @@ Dr. Sarah Barns is a Postdoctoral Research Fellow based at the Institute for Cul
 
 - Massey, Doreen. *for space* (London: Sage, 2005).
 
-- Mattern, Shannon. ‘Methodolatry and the Art of Measure: The New Wave of Urban Science’, *Places Journal*, November (2013), [httpss://placesjournal.org/article/methodolatry-and-the-art-of-measure/](httpss://placesjournal.org/article/methodolatry-and-the-art-of-measure/)
+- Mattern, Shannon. ‘Methodolatry and the Art of Measure: The New Wave of Urban Science’, *Places Journal*, November (2013), [https://placesjournal.org/article/methodolatry-and-the-art-of-measure/](https://placesjournal.org/article/methodolatry-and-the-art-of-measure/)
 
-- Mattern, Shannon. ‘Instrumental City: The View from Hudson Yards, circa 2019’, *Places Journal*, April (2016), [httpss://placesjournal.org/article/instrumental-city-new-york-hudson-yards/](httpss://placesjournal.org/article/instrumental-city-new-york-hudson-yards/)
+- Mattern, Shannon. ‘Instrumental City: The View from Hudson Yards, circa 2019’, *Places Journal*, April (2016), [https://placesjournal.org/article/instrumental-city-new-york-hudson-yards/](https://placesjournal.org/article/instrumental-city-new-york-hudson-yards/)
 
 - McCullough, Malcolm. *Ambient Commons: Attention in the Age of Embodied Information* (Cambridge: MA: MIT Press, 2013).
 
@@ -312,7 +312,7 @@ Dr. Sarah Barns is a Postdoctoral Research Fellow based at the Institute for Cul
 
 - Paay, Jeni, Dave, Bharat and Howard, Stephen. ‘Understanding and Representing the Social Prospects of Hybrid Urban Spaces’, *Environment and Planning B: Planning and Design* 34.3 (2007): 446-465.
 
-- Poole, Steven. ‘The Truth About Smart Cities’, *The Guardian*, 18 December (2014), [httpss://www.theguardian.com/cities/2014/dec/17/truth-smart-city-destroy-democracy-urban-thinkers-buzzphrase](httpss://www.theguardian.com/cities/2014/dec/17/truth-smart-city-destroy-democracy-urban-thinkers-buzzphrase)
+- Poole, Steven. ‘The Truth About Smart Cities’, *The Guardian*, 18 December (2014), [https://www.theguardian.com/cities/2014/dec/17/truth-smart-city-destroy-democracy-urban-thinkers-buzzphrase](https://www.theguardian.com/cities/2014/dec/17/truth-smart-city-destroy-democracy-urban-thinkers-buzzphrase)
 
 - Rheingold, Howard. *Smartmobs: The Next Social Revolution* (Cambridge, MA: Basic Books, 2002).
 
@@ -340,7 +340,7 @@ Dr. Sarah Barns is a Postdoctoral Research Fellow based at the Institute for Cul
 
 - Townsend, Anthony. *Smart Cities: Big Data, Civic Hackers and the Quest for a New Utopia* (New York: Norton, 2013).
 
-- Townsend, Anthony. ‘Two Approaches to Urban Sensing – Synoptic vs. Ground Truth (Pt. 1)’, *Medium*, October 31 (2014), [httpss://medium.com/the-new-urban-science/two-approaches-to-urban-sensing-synoptic-vs-ground-truth-b584a7285ecb](httpss://medium.com/the-new-urban-science/two-approaches-to-urban-sensing-synoptic-vs-ground-truth-b584a7285ecb)
+- Townsend, Anthony. ‘Two Approaches to Urban Sensing – Synoptic vs. Ground Truth (Pt. 1)’, *Medium*, October 31 (2014), [https://medium.com/the-new-urban-science/two-approaches-to-urban-sensing-synoptic-vs-ground-truth-b584a7285ecb](https://medium.com/the-new-urban-science/two-approaches-to-urban-sensing-synoptic-vs-ground-truth-b584a7285ecb)
 
 - Townsend, Anthony. ‘Cities of Data: Examining the New Urban Science’, *Public Culture* 27.2 (2015): 201-212.
 

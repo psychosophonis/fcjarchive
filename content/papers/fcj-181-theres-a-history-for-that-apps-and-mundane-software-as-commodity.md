@@ -208,7 +208,7 @@ Evan Elkins is a doctoral student in Communication Arts at the University of Wis
 
 - Dyer-Witherford, Nick, and Greig de Peuter. *Games of Empire: Global Capitalism and Video Games* (Minneapolis, MN: University of Minnesota Press, 2005).
 
-- Freeman, Jay. ‘Weclome to Cydia’, httpss://cydia.saurik.com/.
+- Freeman, Jay. ‘Weclome to Cydia’, https://cydia.saurik.com/.
 
 - Friedman, Ted. *Electric Dreams: Computers in American Culture* (New York: New York University Press, 2005).
 
@@ -234,7 +234,7 @@ Evan Elkins is a doctoral student in Communication Arts at the University of Wis
 
 - Jarvie, Barbara. ‘The Sound of Music – Midi Spurs Crescendo in Multimedia Apps’, *Computer Reseller News*, 18 November (1991): 1.
 
-- Jobs, Steve. ‘Steve Jobs introduces the App store – iPhone SDK Keynote’, 13 March (2008), httpss://www.youtube.com/watch?v=xo9cKe_Fch8
+- Jobs, Steve. ‘Steve Jobs introduces the App store – iPhone SDK Keynote’, 13 March (2008), https://www.youtube.com/watch?v=xo9cKe_Fch8
 
 - Johnson, Luanne. ‘Creating the Software Industry: Recollections of Software Company Founders of the 1960s’, *IEEE Annals of the History of Computing* 24.1 (2002): 14—42.
 
@@ -302,7 +302,7 @@ Evan Elkins is a doctoral student in Communication Arts at the University of Wis
 
 - Slattery, Caroline. ‘Michael Karr: Creator of 69 Positions, a #1 Sex App’, *SMU: Her Campus Media*, 15 November (2011), https://www.hercampus.com/school/smu/michael-karr-creator—69-positions—1-sex-app—0
 
-- Smith, Cassidy. ‘2013: The Year of the App in Review’, *StartApp*, 10 January (2014), httpss://web.archive.org/web/20140705060218/https://blog.startapp.com/2013-year-app-review/
+- Smith, Cassidy. ‘2013: The Year of the App in Review’, *StartApp*, 10 January (2014), https://web.archive.org/web/20140705060218/https://blog.startapp.com/2013-year-app-review/
 
 - Snickars, Pelle, and Patrick Vonderau. *Moving Data: The iPhone and the Future of Media* (New York: Columbia University Press, 2012).
 

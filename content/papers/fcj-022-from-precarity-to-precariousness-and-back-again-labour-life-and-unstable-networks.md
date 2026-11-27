@@ -171,7 +171,7 @@ Ned Rossiter is a senior lecturer at the Centre for Media Research, University o
 
 ## Sites
 
-aut-op-sy mailing list, [httpss://lists.resist.ca/cgi-bin/mailman/listinfo/aut-op-sy/](httpss://lists.resist.ca/cgi-bin/mailman/listinfo/aut-op-sy/)
+aut-op-sy mailing list, [https://lists.resist.ca/cgi-bin/mailman/listinfo/aut-op-sy/](https://lists.resist.ca/cgi-bin/mailman/listinfo/aut-op-sy/)
 
 Chainworkers, [https://www.chainworkers.org/dev](https://www.chainworkers.org/dev)
 

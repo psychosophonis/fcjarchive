@@ -163,7 +163,7 @@ Raids provide a corrupt but structurally sound template for progressive activism
 
 - Lisa Nakamura: Don’t Hate the Player, Hate the Game, (2010), https://www.youtube.com/watch?v=P5AaXuzaPtk&feature=youtube_gdata_player
 
-- ‘Nigra,’ Encyclopedia Dramatica, httpss://encyclopediadramatica.se/Nigra
+- ‘Nigra,’ Encyclopedia Dramatica, https://encyclopediadramatica.se/Nigra
 
 - Phillips, Whitney. ‘Interview with a Troll’, a Sandwich, with Words???, 28 May (2012), https://billions-and-billions.com/2012/05/28/interview-with-a-troll/
 
@@ -183,7 +183,7 @@ Raids provide a corrupt but structurally sound template for progressive activism
 
 - Stone, Allucquère Rosanne. ‘Will the Real Body Please Stand Up?’, in Michael Benedikt (ed.) Cyberspace: First Steps (Cambridge, Mass.: MIT Press, 1991), 81–118.
 
-- ‘The Great Habbo Raid of July 2006,’ Encyclopedia Dramatica., httpss://encyclopediadramatica.se/The_Great_Habbo_Raid_of_July_2006
+- ‘The Great Habbo Raid of July 2006,’ Encyclopedia Dramatica., https://encyclopediadramatica.se/The_Great_Habbo_Raid_of_July_2006
 
 - Turkle, Sherry. Life on Screen: Identity in the Age of the Internet. (New York, NY: Simon & Schuster, 1997).
 

@@ -176,9 +176,9 @@ Roboticists have yet to turn to dance as a fertile source of inspiration for und
 
  [1] For Graham, falling was both a physical and a psychological act, to be used for dramatic and emotional effect. She developed a technique of contraction and release, mirroring the rhythm of breathing and built around the relationship of the torso and spine (Benbow-Pfalzgraf, 1998). Her approach continues to be taught today in various forms, for example, in the Safety Release Technique, developed by B.J. Sullivan (USA). The Safety Release Technique can be found at [https://performingarts.uncg.edu/bios/bj-sullivan](https://performingarts.uncg.edu/bios/bj-sullivan)
 
- [2] The damage can also be of an emotional kind, such as embarrassment for the makers of the robot. See, for example, Honda’s Asimo falling (2007): [httpss://www.youtube.com/watch?v=ASoCJTYgYB0](httpss://www.youtube.com/watch) Four years later a new demonstration reveals a more physically competent version of Asimo, able to walk up stairs and hop on one foot. Asimo jumping (2011): [httpss://www.youtube.com/watch?v=Bmglbk_Op64](httpss://www.youtube.com/watch)
+ [2] The damage can also be of an emotional kind, such as embarrassment for the makers of the robot. See, for example, Honda’s Asimo falling (2007): [https://www.youtube.com/watch?v=ASoCJTYgYB0](https://www.youtube.com/watch) Four years later a new demonstration reveals a more physically competent version of Asimo, able to walk up stairs and hop on one foot. Asimo jumping (2011): [https://www.youtube.com/watch?v=Bmglbk_Op64](https://www.youtube.com/watch)
 
- [3] 2014 RoboCup SPL Grand Final, [httpss://youtu.be/dhooVgC_0eY](httpss://youtu.be/dhooVgC_0eY)
+ [3] 2014 RoboCup SPL Grand Final, [https://youtu.be/dhooVgC_0eY](https://youtu.be/dhooVgC_0eY)
 
  [4] The modulator of the Tonic Lab is the Landau RR, a total body extension pattern where the head, tail, arms and legs extend away from the earth like an aeroplane.
 
@@ -186,7 +186,7 @@ Roboticists have yet to turn to dance as a fertile source of inspiration for und
 
  [6] In their work on multi-locomotion robots, Fukada and colleagues (2014) also use a quadrupedal robot to explore strategies for fall prevention inspired by human and animal locomotion modes. Quadrupedal locomotion is inherently more stable than bipedal walking, since the base of support is distributed over four legs compared to two. The risk of falling is related to the relative stability of the robot in relation to the terrain. Fukada and colleagues combine models of stabilisation based on the robot’s internal conditions with stabilisation based on external information from the environment. When the robot encounters rough terrain and the risk of falling is greater than 0.7, the strategy is to transition from a bipedal walking gait to a squat to a quadrupedal walking gait. The squat position lowers the centre of gravity and is an important intermediary action.
 
- [7] Big Dog on slippery ice: [httpss://youtu.be/cNZPRsrwumQ](httpss://youtu.be/cNZPRsrwumQ)
+ [7] Big Dog on slippery ice: [https://youtu.be/cNZPRsrwumQ](https://youtu.be/cNZPRsrwumQ)
 
  [8] Documentation of *Exergie*: [https://www.melatisuryodarmo.com/works_Exergie_Butter_Dance.html**](https://www.melatisuryodarmo.com/works_Exergie_Butter_Dance.html**)
 

@@ -264,7 +264,7 @@ Jennie Phillips is a Doctoral Fellow with the Citizen Lab, University of Toronto
 
  [4] Other scholars highlight the potential of online networks to impact to offline results (Tremayne, 2013; Aday et al, 2010, Conover et al, 2013). They can be used to connect individuals for resource mobilization, collective framing, and help navigate the challenges of mass organization and coordination (Bennett and Segerberg, 2012; Theocharis, 2013; Hounsell, 2011; Theocharis, 2014).
 
- [5] ‘#OCCUPYWALLSTREET: A shift in revolutionary tactics’ was the Adbusters article that called for the OWS movement. July 13, 2011 httpss://www.adbusters.org/blogs/adbusters-blog/occupywallstreet.html
+ [5] ‘#OCCUPYWALLSTREET: A shift in revolutionary tactics’ was the Adbusters article that called for the OWS movement. July 13, 2011 https://www.adbusters.org/blogs/adbusters-blog/occupywallstreet.html
 
  [6] Other research shows that in the initial stages of the movement, Twitter was a dominant platform for communication (Schneider, 2011; Stirland, 2011; Tremayne 2013). Analyses of tweets disseminated throughout the movement (Tremayne 2013; Conover, 2013; Theocharis, 2014, Thorson et al., 2013) reveal how Twitter was used to facilitate the rhetoric between the activists, mass media, organizations and the public and well as to sustain the momentum of the movement. More specifically it was used as a platform for the local level to communicate time-sensitive police and protest information, facilitate interstate communication regarding related to mass media and narrative frames, to manage critical issues faced by the movement.
 
@@ -286,7 +286,7 @@ Jennie Phillips is a Doctoral Fellow with the Citizen Lab, University of Toronto
 
 - Aday, Sean, Henry Farrell, Marc Lynch, John Sides, John Kelly and Ethan Zuckerman. ‘Blogs and Bullets: New Media in Contentious Politics’, *Technical Report, U.S. Institute of Peace* (2010).
 
-- Adbusters. ‘A Shift in Revolutionary Tactics’– the article that called for the OWS movement’, *Adbusters* (2012) httpss://www.adbusters.org/blogs/adbusters-blog/occupywallstreet.html
+- Adbusters. ‘A Shift in Revolutionary Tactics’– the article that called for the OWS movement’, *Adbusters* (2012) https://www.adbusters.org/blogs/adbusters-blog/occupywallstreet.html
 
 - Bakir, Vian. *Sousveillance, Media and Strategic Political Communication: Iraq, USA, UK*. (London: Bloomsbury Publishing, 2010).
 

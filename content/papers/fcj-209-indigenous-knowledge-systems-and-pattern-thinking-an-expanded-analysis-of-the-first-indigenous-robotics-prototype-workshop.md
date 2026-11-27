@@ -175,7 +175,7 @@ Mikaela Jade and Ruth Miriams, Meg Heritage, Tim Richter and Rachel Fabian for i
 
 - Christie, Michael J. ‘Aboriginal Science for the Ecologically Sustainable Future’, *Ngoonjook* 4 (November, 1990): 56-68
 
-- FIRST Australia. (2015) [httpss://firstaustralia.org](httpss://firstaustralia.org)
+- FIRST Australia. (2015) [https://firstaustralia.org](https://firstaustralia.org)
 
 - Foley, Dennis. ‘Indigenous Epistemology and Indigenous Standpoint Theory’, *Social Alternatives* 22.1 (2003): 44-52
 

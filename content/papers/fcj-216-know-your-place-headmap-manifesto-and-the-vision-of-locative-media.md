@@ -164,7 +164,7 @@ Dale Leorke recently completed his PhD in the School of Culture and Communicatio
 
 [7] Interestingly, platforms like Taskrabbit can be seen as realising this vision, although it is a far more commercial service than those that Russell envisions, which are based on mutual need and common interests rather than solely profit-making. Uber and Airbnb, both also foreseen by Russell as I mentioned shortly, fall into the same category.
 
-[8] See [httpss://www.youtube.com/watch?v=_mRF0rBXIeg](httpss://www.youtube.com/watch)
+[8] See [https://www.youtube.com/watch?v=_mRF0rBXIeg](https://www.youtube.com/watch)
 
 [9] Source: [https://technoccult.net/technoccult-library/headmap/](https://technoccult.net/technoccult-library/headmap/)
 
@@ -172,7 +172,7 @@ Dale Leorke recently completed his PhD in the School of Culture and Communicatio
 
 ### References
 
-- Barlow, John Perry. ‘A Declaration of the Independence of Cyberspace’, *Electronic Frontier Foundation* (1996), [httpss://projects.eff.org/~barlow/Declaration-Final.html](httpss://projects.eff.org/~barlow/Declaration-Final.html)
+- Barlow, John Perry. ‘A Declaration of the Independence of Cyberspace’, *Electronic Frontier Foundation* (1996), [https://projects.eff.org/~barlow/Declaration-Final.html](https://projects.eff.org/~barlow/Declaration-Final.html)
 
 - Brucker-Cohen, Johan. ‘Locative Media Revisited’, *Rhizome* (2014), [https://rhizome.org/editorial/2014/mar/26/locative-media-revisited/](https://rhizome.org/editorial/2014/mar/26/locative-media-revisited/)
 

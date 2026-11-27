@@ -323,7 +323,7 @@ Kline, Stephen; Dyer-Witheford, Nick; and de Peuter, Greig. Digital Play: The In
 
 Lazzarato, Maurizio. ‘Immaterial Labour’, trans. Paul Colilli and Ed Emory, in Paolo Virno and Michael Hardt (eds) Radical Thought in Italy Today (Minneapolis: University of Minnesota Press, 1996), 133-147.
 
-_____. Presentation at ‘Digital Work Seminar’, trans. Brian Holmes, Media Design Research, Piet Zwart Institute; V2_Organization, Institute for the Unstable Media, 11 October (2003), [httpss://www.pzwart.wdka.hro.nl/mdr/Seminars2/dwork/transdw/](httpss://www.pzwart.wdka.hro.nl/mdr/Seminars2/dwork/transdw/).
+_____. Presentation at ‘Digital Work Seminar’, trans. Brian Holmes, Media Design Research, Piet Zwart Institute; V2_Organization, Institute for the Unstable Media, 11 October (2003), [https://www.pzwart.wdka.hro.nl/mdr/Seminars2/dwork/transdw/](https://www.pzwart.wdka.hro.nl/mdr/Seminars2/dwork/transdw/).
 
 Lazzarato, Maurizio and Negri, Antonio. ‘Travail immaterial and subjectivité’, Futur Antérieur 6 (1991): 86-89.
 

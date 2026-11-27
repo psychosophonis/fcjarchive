@@ -25,7 +25,7 @@ Digital technologies provide new opportunities for human rights advocates to mob
 
 Earth Observation via satellites began when the first artificial satellite was sent into space by the Soviet Union in 1957 during the Cold War. Named Sputnik (‘fellow traveller of the Earth’), the 83kg capsule was credited with starting a ‘space race’ (Wang, 2008) – a race initially driven by government and military objectives. The first Sputnik was a very simple satellite that communicated with Earth via radio pulses, which were monitored by governments and amateur radio enthusiasts around the world (Siddiqi, 2003). While Sputnik 1 was a simple satellite with limited capacity and was not used for Earth Observation, it paved the way for the ongoing development of satellite technology as a global communication infrastructure. {#para2}
 
-At the time of writing, there are an estimated 1265 publicly listed or known satellites are in orbit and active (Union of Concerned Scientists, 2015). These satellites range in size from a basketball to a small bus and they have very different capacities. This live, interactive satellite map ([httpss://in-the-sky.org/satmap](httpss://in-the-sky.org/satmap)), created by radio presenter and scientist, Dominic Ford, highlights the ubiquitous presence of satellites: they scan and document every ocean and nation. [The Citizen Science Satellite Database Project (https://www.ucsusa.org/nuclear_weapons_and_global_security/solutions/space-weapons/ucs-satellite-database.html)](https://www.ucsusa.org/nuclear_weapons_and_global_security/solutions/space-weapons/ucs-satellite-database.html) created by the Union of Concerned Scientists (2015), provides details about the ownership, capacity and function of all known, active satellites. [1] This database suggests that in terms of access and use, the largest proportion (509) of existing orbiting satellites are for the exclusive use of governments and their militaries, while 75 are listed for civil use, 462 are for commercial use and the remaining have mixed ownership/use. This database also shows that the together the US government, US organisations and US companies own more orbiting satellites (514) than any other country. {#para3}
+At the time of writing, there are an estimated 1265 publicly listed or known satellites are in orbit and active (Union of Concerned Scientists, 2015). These satellites range in size from a basketball to a small bus and they have very different capacities. This live, interactive satellite map ([https://in-the-sky.org/satmap](https://in-the-sky.org/satmap)), created by radio presenter and scientist, Dominic Ford, highlights the ubiquitous presence of satellites: they scan and document every ocean and nation. [The Citizen Science Satellite Database Project (https://www.ucsusa.org/nuclear_weapons_and_global_security/solutions/space-weapons/ucs-satellite-database.html)](https://www.ucsusa.org/nuclear_weapons_and_global_security/solutions/space-weapons/ucs-satellite-database.html) created by the Union of Concerned Scientists (2015), provides details about the ownership, capacity and function of all known, active satellites. [1] This database suggests that in terms of access and use, the largest proportion (509) of existing orbiting satellites are for the exclusive use of governments and their militaries, while 75 are listed for civil use, 462 are for commercial use and the remaining have mixed ownership/use. This database also shows that the together the US government, US organisations and US companies own more orbiting satellites (514) than any other country. {#para3}
 
 The primary function of most satellites is communication (including global broadcasting as well as data and voice services), but around 10 percent of satellites use remote sensing technologies for Earth Observation. Different sensor types determine how these technologies create images and what they are able to observe and these include optical, radar and infrared sensors (Johnston, 2013). The approximately 130 currently operational Earth Observation Satellites collect images for diverse purposes including the monitoring of disasters, sea salinity, pollution, soil moisture, climate, polar ice, forest cover, rainfall and coastline changes. They have also been used to manage natural resources, urban development, criminal behavior, crop yields and conflict (Union of Concerned Scientists, 2014). In addition to these known uses of Earth Observation Satellites, information gaps remain around the nature and quality of the data many of these satellites capture, the uses to which the data is put, and the actors operating and funding the satellites. Dual or hidden uses of satellite data (for example, satellites suspected of covertly being used for surveillance or reconnaissance) have likely contributed to the paucity of publicly available data and to the lack of international and national legal requirements that could enforce greater transparency. {#para4}
 
@@ -163,7 +163,7 @@ Dr Camellia Webb-Gannon is a Research Fellow at the Justice Research Group at th
 
 - Hagenlocher, Michael, Stefan Lang and Dirk Tiede. ‘Integrated Assessment of the Environmental Impact of an IDP Camp in Sudan Based on Very High Resolution Multi-temporal Satellite Imagery’, *Remote Sensing of Environment* 126 (2012): 27–38.
 
-- Higgins, Eliot. ‘A Beginner’s Guide to Geolocating Videos’, in *Evidence and Influence Micromagazine*: Tactical Technology Collective (2013), httpss://micromag.evidenceandinfluence.org/article/a-beginners-guide-to-geolocating-videos/
+- Higgins, Eliot. ‘A Beginner’s Guide to Geolocating Videos’, in *Evidence and Influence Micromagazine*: Tactical Technology Collective (2013), https://micromag.evidenceandinfluence.org/article/a-beginners-guide-to-geolocating-videos/
 
 - Human Rights Watch. ‘Syria: Thousands of Houses Unlawfully Razed.’ 30 Jan (2014), https://www.hrw.org/news/2014/01/30/syria-thousands-houses-unlawfully-razed
 
@@ -223,9 +223,9 @@ Dr Camellia Webb-Gannon is a Research Fellow at the Justice Research Group at th
 
 - Sulik, John and Scott Edwards. ‘Feature Extraction for Darfur: Geospatial Applications in the Documentation of Human Rights Abuses’, *International Journal of Remote Sensing* 31.10 (2013): 2521–2533.
 
-- Tactical Technology Collective. ‘From My Point of View’, in *Exposing the Invisible* (2013), httpss://exposingtheinvisible.org/
+- Tactical Technology Collective. ‘From My Point of View’, in *Exposing the Invisible* (2013), https://exposingtheinvisible.org/
 
-- Tactical Technology Collective, ‘Reveal the Truth’ in *10 Tactics for Turning Information into Action*, (Bangalore: Tactical Technology Collective, 2009), httpss://archive.informationactivism.org/en/viewtactic10v2
+- Tactical Technology Collective, ‘Reveal the Truth’ in *10 Tactics for Turning Information into Action*, (Bangalore: Tactical Technology Collective, 2009), https://archive.informationactivism.org/en/viewtactic10v2
 
 - Tait, David. ‘Rethinking the Role of the Image in Justice: Visual Evidence and Science in the Trial Process’, *Law, Probability and Risk* 6.1–4 (2007): 311–18.
 
@@ -267,10 +267,10 @@ Dr Camellia Webb-Gannon is a Research Fellow at the Justice Research Group at th
 
  [3] The secrecy and prevalence of military satellites, but also more broadly the materiality and space junk caused by all satellites, is rendered visible by Trevor Paglan’s artwork series, *[The Other Night Sky](https://www.paglen.com/)*, where he uses the online data of amateur satellite watchers to track and photograph classified American spacecraft in Earth’s orbit.
 
- [4] Higgins has now [established a website](httpss://bellingcat.com/) to help ‘citizen journalists’. It provides step-by-step instruction on how to use satellite images to collect and corroborate evidence.
+ [4] Higgins has now [established a website](https://bellingcat.com/) to help ‘citizen journalists’. It provides step-by-step instruction on how to use satellite images to collect and corroborate evidence.
 
  [5] These high quality images are generally provided by two commercial companies: GeoEye or Digital Globe, although GeoEye was acquired by Digital Globe in 2013.
 
- [6] See: httpss://www.digitalglobe.com/products/data/satellite-tasking
+ [6] See: https://www.digitalglobe.com/products/data/satellite-tasking
 
  [7] These treaties, and corresponding principles, have been brought together in the following document: ‘United Nations Treaties and Principles on Outer Space’ (https://www.unoosa.org/pdf/publications/STSPACE11E.pdf).

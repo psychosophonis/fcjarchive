@@ -170,9 +170,9 @@ Tom Apperley, Ph.D. is an ethnographer that specializes in researching digital m
 
 - Dormans, Joris. ‘On the Role of the Die: A brief ludologic study of pen-and-paper roleplaying games and their rules,’ *Game Studies* 6.1 (2006).
 
-- Everyday Racism: Apple app store page (2014) Accessed 7th September 2014 [httpss://itunes.apple.com/au/app/everyday-racism/id726683275]
+- Everyday Racism: Apple app store page (2014) Accessed 7th September 2014 [https://itunes.apple.com/au/app/everyday-racism/id726683275]
 
-- Everyday Racism: Google Play store page (2014) Accessed 7th September 2014 [httpss://play.google.com/store/apps/details?id=com.atn.everydayracism]
+- Everyday Racism: Google Play store page (2014) Accessed 7th September 2014 [https://play.google.com/store/apps/details?id=com.atn.everydayracism]
 
 - Facepunch Studios (2015) ‘Devblog 51’ Play Rust Accessed 2 April 2015 [https://playrust.com/devblog–51/]
 

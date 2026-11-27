@@ -130,7 +130,7 @@ Alexander R. Galloway is an Associate Professor in the Department of Media, Cult
 
 ### Notes
 
-- [1] Clough, Patricia. ‘Feminist Theory, Bodies and Technoscience’, *Bringing the Body Back in Humanities and Social Science*. February 24, 2014. CUNY Graduate Center. Available at: httpss://vimeo.com/41526429. See also: Clough, Patricia. ‘Bodies: Technoscience and Feminist Theories’, in Bryan Turner (ed.) *The Routledge Handbook of the Body* (New York: Routledge, 2012).
+- [1] Clough, Patricia. ‘Feminist Theory, Bodies and Technoscience’, *Bringing the Body Back in Humanities and Social Science*. February 24, 2014. CUNY Graduate Center. Available at: https://vimeo.com/41526429. See also: Clough, Patricia. ‘Bodies: Technoscience and Feminist Theories’, in Bryan Turner (ed.) *The Routledge Handbook of the Body* (New York: Routledge, 2012).
 
 - [2] Parisi writes in *Contagious Architecture*: ‘Just as your smart phone works as a monitor device for tracking your location, which then becomes data used to construct the profile of your movement, so too does the monitoring procedure of smart infrastructure collect data which then become part of the programming of new infrastructural systems. As data are recorded, so they evolve into predictive scenarios aiming not simply at presetting your movement, but rather at generating its future conditions through the generative interaction of parameters with real-time data. This is how post-cybernetic control operates as a form of parametric design. From this standpoint, the goal of parametric design is deep relationality, the real-time integration of the evolving variables of a built environment in software systems that are able to figure emerging scenarios by responding to or preadapting scripted data’ (2013: 105).
 

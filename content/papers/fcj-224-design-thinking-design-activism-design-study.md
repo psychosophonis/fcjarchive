@@ -80,7 +80,7 @@ It is the elaboration of debt as its own principle that I suggest ‘design stud
 
 Harney and Moten stress that study is a gathering of intensities and that its enablement will likely also involve a gathering of resources. Given that the thought and practice of design today attracts such a gathering of resources, in part due to the popular appeal of Design Thinking, the language of design might be useful to the extent that it can be deployed towards study and the ‘development of ways of being together that cannot be shared as a model but as an instance’ (Harney and Moten, 2013: 105). In this respect, the work of the Design Studio for Social Intervention (DS4SI) in Boston provides an interesting instance of experimentation with ways of doing debt differently. Representing itself as an ‘artistic research and development outfit for the improvement of civil society and everyday life’, the Design Studio exploits the idea of the studio as a place of invention in which the pragmatics of reconsidering problems and solutions play out: {#para29}
 
-> Situated at the intersections of design thinking and practice, social justice and activism, public art and social practice and civic / popular engagement, we design and test social interventions with and on behalf of marginalized populations, controversies and ways of life. (httpss://www.ds4si.org) {#para30}
+> Situated at the intersections of design thinking and practice, social justice and activism, public art and social practice and civic / popular engagement, we design and test social interventions with and on behalf of marginalized populations, controversies and ways of life. (https://www.ds4si.org) {#para30}
 
 Self-representations aside, it is the practical aspects of the Design Studio that interest me here, insofar as they provide a sense in which design might orient a more open experimentation with bad debt and with the intellectuality of study prior to its ennoblement as a model of thinking. {#para31}
 
@@ -100,7 +100,7 @@ Maria Hynes is a Senior Lecturer in the School of Sociology, Australian National
 
 ### References
 
-- Anderson, R. ‘Are Designers Becoming the New Activists?’ (2017), [httpss://medium.com/@Riander/are-designers-becoming-the-new-activists-9bbc46ffe576](httpss://medium.com/@Riander/are-designers-becoming-the-new-activists-9bbc46ffe576)
+- Anderson, R. ‘Are Designers Becoming the New Activists?’ (2017), [https://medium.com/@Riander/are-designers-becoming-the-new-activists-9bbc46ffe576](https://medium.com/@Riander/are-designers-becoming-the-new-activists-9bbc46ffe576)
 
 - Baeck, Aline and Gremett, Peter. ‘Design Thinking’, in Helmut Degen and Xiaowei Yuan (eds.) *UX Best Practices – How to Achieve More Impact with User Experience* (McGraw-Hill Osborne Media, 2011), 229-250.
 
@@ -110,15 +110,15 @@ Maria Hynes is a Senior Lecturer in the School of Sociology, Australian National
 
 - Brown, Tim. *Change By Design: How Design Thinking Transforms Organizations and Inspires Innovation* (New York: Harper Collins, 2009).
 
-- Brown, Tim and Wyatt, Jocelyn. ‘Design Thinking for Social Innovation’ (2010), [httpss://ssir.org/articles/entry/design_thinking_for_social_innovation](httpss://ssir.org/articles/entry/design_thinking_for_social_innovation)
+- Brown, Tim and Wyatt, Jocelyn. ‘Design Thinking for Social Innovation’ (2010), [https://ssir.org/articles/entry/design_thinking_for_social_innovation](https://ssir.org/articles/entry/design_thinking_for_social_innovation)
 
-- Brown, Tim, ‘Huffpost Live From Davos’ (2014), [httpss://www.huffingtonpost.com.au/entry/tim-brown-davos_n_4635681](httpss://www.huffingtonpost.com.au/entry/tim-brown-davos_n_4635681)
+- Brown, Tim, ‘Huffpost Live From Davos’ (2014), [https://www.huffingtonpost.com.au/entry/tim-brown-davos_n_4635681](https://www.huffingtonpost.com.au/entry/tim-brown-davos_n_4635681)
 
 - Buchanan, Richard. ‘Wicked Problems in Design Thinking’, *Design Issues* 8.2 (1992), 5-21.
 
 - Chen, Dung-Sheng, Cheng, Lu-Lin, Hummels, Caroline and Koskinen, Ilpo. ‘Social Design: An Introduction’, *International Journal of Design* 10.1 (2016), 1-5.
 
-- Design Studio for Social Intervention (DS4SI)(Undated), [httpss://www.ds4si.org](httpss://www.ds4si.org)
+- Design Studio for Social Intervention (DS4SI)(Undated), [https://www.ds4si.org](https://www.ds4si.org)
 
 - Dorst, Kees. ‘The Core of Design Thinking and its Application’ (2011), [https://sheltonography.com/resources/Articles/Design%20Thinking.pdf](https://sheltonography.com/resources/Articles/Design%20Thinking.pdf)
 
@@ -128,13 +128,13 @@ Maria Hynes is a Senior Lecturer in the School of Sociology, Australian National
 
 - Hardt, Michael, and Negri, Antonio. *Empire* (Cambridge, MA: Harvard University Press, 2001).
 
-- Hardt, Michael. ‘Reclaim the Common in Communism’, *The Guardian*, Feb. 3, (2011), [httpss://www.theguardian.com/commentisfree/2011/feb/03/communism-capitalism-socialism-property#top](httpss://www.theguardian.com/commentisfree/2011/feb/03/communism-capitalism-socialism-property)
+- Hardt, Michael. ‘Reclaim the Common in Communism’, *The Guardian*, Feb. 3, (2011), [https://www.theguardian.com/commentisfree/2011/feb/03/communism-capitalism-socialism-property#top](https://www.theguardian.com/commentisfree/2011/feb/03/communism-capitalism-socialism-property)
 
-- Harney, Stefano. ‘Stefano Harney on Study’ (2018), [httpss://www.youtube.com/watch?v=uJzMi68Cfw0](httpss://www.youtube.com/watch)
+- Harney, Stefano. ‘Stefano Harney on Study’ (2018), [https://www.youtube.com/watch?v=uJzMi68Cfw0](https://www.youtube.com/watch)
 
 - Harney, Stefano and Moten, Fred. *The Undercommons: Fugitive Planning and Black Study* (Wivenhoe, New York, Port Watson: Minor Compositions, 2013).
 
-- Heller, Cheryl, ‘Interview: What is Design for Social Innovation?’ (2015), [httpss://unreasonable.is/interview-design-social-innovation/](httpss://unreasonable.is/interview-design-social-innovation/)
+- Heller, Cheryl, ‘Interview: What is Design for Social Innovation?’ (2015), [https://unreasonable.is/interview-design-social-innovation/](https://unreasonable.is/interview-design-social-innovation/)
 
 - Hroch, Petra. ‘Sustainable Design Activism: Affirmative politics and fruitful futures’, in Betti Marenko and Jamie Brassett (eds.) *Deleuze and Design* (Edinburgh: Edinburgh University Press, 2015), 219-245.
 
@@ -150,15 +150,15 @@ Maria Hynes is a Senior Lecturer in the School of Sociology, Australian National
 
 - Manzini, Ezio. *Design, When Everybody Designs: An Introduction to Design for Social Innovation* (Cambridge, MA: MIT Press, 2015).
 
-- Moten, Fred. ‘Do Black Lives Matter? Robin D.G. Kelley and Fred Moten in Conversation’, (2014), [httpss://vimeo.com/116111740](httpss://vimeo.com/116111740)
+- Moten, Fred. ‘Do Black Lives Matter? Robin D.G. Kelley and Fred Moten in Conversation’, (2014), [https://vimeo.com/116111740](https://vimeo.com/116111740)
 
-- Norman, Don. ‘Rethinking Design Thinking’, (n.d.), [httpss://www.jnd.org/dn.mss/rethinking_design_th.html](httpss://www.jnd.org/dn.mss/rethinking_design_th.html)
+- Norman, Don. ‘Rethinking Design Thinking’, (n.d.), [https://www.jnd.org/dn.mss/rethinking_design_th.html](https://www.jnd.org/dn.mss/rethinking_design_th.html)
 
 - Rawsthorn, Alice. *Design as an Attitude* (Zurich, JRP-Ringier 2018).
 
-- Rawsthorn, Alice. ‘Design and Society’, Inaugural RSA Tindale Lecture, (2013), [httpss://www.youtube.com/watch?v=euIwLydYJpI](httpss://www.youtube.com/watch)
+- Rawsthorn, Alice. ‘Design and Society’, Inaugural RSA Tindale Lecture, (2013), [https://www.youtube.com/watch?v=euIwLydYJpI](https://www.youtube.com/watch)
 
 - Thorpe, Ann. ‘Design As Activism: To Resist or to Generate?’, [https://current.ecuad.ca/design-as-activism-to-resist-or-to-generate](https://current.ecuad.ca/design-as-activism-to-resist-or-to-generate)
 
 - Tonkinwise, Cameron. ‘Design For Transitions – From and To What?’, (2015). *Articles*. 5,
- [httpss://digitalcommons.risd.edu/critical_futures_symposium_articles/5](httpss://digitalcommons.risd.edu/critical_futures_symposium_articles/5)
+ [https://digitalcommons.risd.edu/critical_futures_symposium_articles/5](https://digitalcommons.risd.edu/critical_futures_symposium_articles/5)

@@ -208,15 +208,15 @@ My thanks goes to a number of people who have contributed in the developments of
 
 - Dwyer, Catherine, Hiltz, Starr Roxanne, and Passerini, Katia. ‘Trust and privacy concern within social networking sites: A comparison of Facebook and MySpace’, *Proceedings of the Thirteenth Americas Conference on Information Systems* (Keystone, CO, 2007), https://csis.pace.edu/~dwyer/research/DwyerAMCIS2007.pdf.
 
-- Facebook a. ‘About’ (2012), httpss://www.facebook.com/facebook?v=info
+- Facebook a. ‘About’ (2012), https://www.facebook.com/facebook?v=info
 
-- Facebook b. ‘Facebook for Business’ (2012), httpss://www.facebook.com/business/overview
+- Facebook b. ‘Facebook for Business’ (2012), https://www.facebook.com/business/overview
 
-- Facebook c. ‘Statement of Rights and Responsibilities’, June 8 (2012), httpss://www.facebook.com/legal/terms
+- Facebook c. ‘Statement of Rights and Responsibilities’, June 8 (2012), https://www.facebook.com/legal/terms
 
 - Facebook d. *Form S–1. Registration Statement*’ S–1 (Washington, D.C., 2012).
 
-- Facebook Help Center. ‘Disabled’, November 7 (2012), httpss://www.facebook.com/help/382409275147346/
+- Facebook Help Center. ‘Disabled’, November 7 (2012), https://www.facebook.com/help/382409275147346/
 
 - Fielding, Nick and Cobain, Ian. ‘Revealed: US Spy Operation That Manipulates Social Media’, *The Guardian* (17 March 2011), https://www.guardian.co.uk/technology/2011/mar/17/us-spy-operation-social-networks
 

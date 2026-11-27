@@ -187,9 +187,9 @@ Nathan Rambukkana is an Assistant Professor in Communication Studies at Wilfrid 
 
 ### References
 
-- @haymakerhattie ‘#RaceFail usually means something very different in my circles #AmazingRace’, *Twitter,* 27 April (2014), httpss://Twitter.com/HaymakerHattie/status/460579134868316161
+- @haymakerhattie ‘#RaceFail usually means something very different in my circles #AmazingRace’, *Twitter,* 27 April (2014), https://Twitter.com/HaymakerHattie/status/460579134868316161
 
-- @SCRunnerGrl. ‘Aaaaaand it’s raining #racefail’, *Twitter,* 22 February (2015), httpss://Twitter.com/SCRunnerGrl/status/569467101540421633
+- @SCRunnerGrl. ‘Aaaaaand it’s raining #racefail’, *Twitter,* 22 February (2015), https://Twitter.com/SCRunnerGrl/status/569467101540421633
 
 - Ahmed, Sarah. ‘Happiness, Race and Empire’, Talk for International Day for the Elimination of Racial Discrimination, York University, Toronto, ON, 19 March (2009).
 
@@ -285,7 +285,7 @@ DeLong, Brad. ‘N.K. Jemisin: Continuum GoH Speech’, Brad DeLong’s Grasping
 
 - McLuhan, Marshall. *The Gutenberg Galaxy* (Toronto: University of Toronto Press, 1962).
 
-- meadows, foz. ‘Reconciliation: A Response To Theodore Beale’, *shattersnipe* [blog] 14 June(2013), httpss://fozmeadows.wordpress.com/2013/06/14/reconciliation-a-response-to-theodore-beale/
+- meadows, foz. ‘Reconciliation: A Response To Theodore Beale’, *shattersnipe* [blog] 14 June(2013), https://fozmeadows.wordpress.com/2013/06/14/reconciliation-a-response-to-theodore-beale/
 
 - Messina, Chris. ‘Groups for Twitter; or A Proposal for Twitter Tag Channels’, FactoryCity [blog] 25 August (2007), https://factoryjoe.com/blog/2007/08/25/groups-for-Twitter-or-a-proposal-for-Twitter-tag-channels/
 
@@ -336,7 +336,7 @@ DeLong, Brad. ‘N.K. Jemisin: Continuum GoH Speech’, Brad DeLong’s Grasping
 
 - Tsing, Anna Lowenhaupt. *Friction: An Ethnography of Global Connection*. (Princeton N.J.: Princeton University Press, 2005).
 
-- Tufekci, Zeynep. ‘What Happens to #Ferguson Affects Ferguson: Net Neutrality, Algorithmic Filtering and Ferguson’, *Medium.com,* 14 August (2014), httpss://medium.com/message/ferguson-is-also-a-net-neutrality-issue–6d2f3db51eb0
+- Tufekci, Zeynep. ‘What Happens to #Ferguson Affects Ferguson: Net Neutrality, Algorithmic Filtering and Ferguson’, *Medium.com,* 14 August (2014), https://medium.com/message/ferguson-is-also-a-net-neutrality-issue–6d2f3db51eb0
 
 - Wakeham, Pauline. ‘Reconciling “Terror”: Managing Indigenous Resistance in the Age of Apology’, *American Indian Quarterly* 36.1 (2012): 1–3.
 

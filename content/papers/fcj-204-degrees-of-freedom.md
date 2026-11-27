@@ -184,7 +184,7 @@ In *Radical Hospitality* I explore the embodied constraints of the technosocial 
 
 - MacDorman, Karl. ‘British Press Picks Up ‘Junk From the Blogosphere’ about Robots’ [Interview], *The Observers*, 10 October (2008), [https://observers.france24.com/en/20081010-humanoid-robots-repliee-r-1-telegraph-blunder-blogosphere-junk](https://observers.france24.com/en/20081010-humanoid-robots-repliee-r-1-telegraph-blunder-blogosphere-junk)
 
-- McCurry, Justin. ‘Erica, the ‘Most Beautiful and Intelligent’ Android, Leads Japan’s Robot Revolution’, *Guardian*, 31 December (2015), [httpss://www.theguardian.com/technology/2015/dec/31/erica-the-most-beautiful-and-intelligent-android-ever-leads-japans-robot-revolution?CMP=soc_567](httpss://www.theguardian.com/technology/2015/dec/31/erica-the-most-beautiful-and-intelligent-android-ever-leads-japans-robot-revolution)
+- McCurry, Justin. ‘Erica, the ‘Most Beautiful and Intelligent’ Android, Leads Japan’s Robot Revolution’, *Guardian*, 31 December (2015), [https://www.theguardian.com/technology/2015/dec/31/erica-the-most-beautiful-and-intelligent-android-ever-leads-japans-robot-revolution?CMP=soc_567](https://www.theguardian.com/technology/2015/dec/31/erica-the-most-beautiful-and-intelligent-android-ever-leads-japans-robot-revolution)
 
 - McNulty, Tracy. *The Hostess: Hospitality, Femininity, and the Expropriation of Identity* (Minneapolis: University of Minnesota Press, 2007).
 

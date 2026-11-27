@@ -161,7 +161,7 @@ Technology Sydney.
 
 [https://www.Globalproject.info](https://www.Globalproject.info)
 
-[httpss://www.inventati.org/mailman/listinfo/precog](httpss://www.inventati.org/mailman/listinfo/precog)
+[https://www.inventati.org/mailman/listinfo/precog](https://www.inventati.org/mailman/listinfo/precog)
 
 [https://www.serpicanaro.com/](https://www.serpicanaro.com/)
 

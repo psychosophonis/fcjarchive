@@ -218,7 +218,7 @@ The wordfilter itself later inspired a parody thread proposing a ‘cumgarbageme
 
 - Falcone, Michael. ‘Palin’s E-Mail Account Hacked’, *The New York Times: The Caucus*, 17 September (2008), thecaucus.blogs.nytimes.com/2008/09/17/palins-e-mail-account-hacked/
 
-- Fischer, Dave. ‘Re: Weeks? hah!!’, posting to Usenet – alt.folklore.computers, 26 January (1994), httpss://groups.google.com/group/alt.folklore.computers/msg/4bd75d223b992e8d?dmode=source&output=gplain&noredirect&pli=1
+- Fischer, Dave. ‘Re: Weeks? hah!!’, posting to Usenet – alt.folklore.computers, 26 January (1994), https://groups.google.com/group/alt.folklore.computers/msg/4bd75d223b992e8d?dmode=source&output=gplain&noredirect&pli=1
 
 - Greenwald, Anthony C. ‘The Open-Mindedness of the Counterattitudinal Role-Player’, *Journal of Experimental Social Psychology*, 5 (1969): 375–388.
 
@@ -248,7 +248,7 @@ The wordfilter itself later inspired a parody thread proposing a ‘cumgarbageme
 
 - Redfox. ‘To whoever just destroyed my life’, posting to Something Awful – GBS, 25 January (2003), https://forums.somethingawful.com/showthread.php?threadid=429124&userid=0&perpage=40&pagenumber=1
 
-- Schwartz, Mattathias. ‘The Trolls Among Us’, *New York Times* (2008), httpss://www.nytimes.com/2008/08/03/magazine/03trolls-t.html?pagewanted=all&_r=0
+- Schwartz, Mattathias. ‘The Trolls Among Us’, *New York Times* (2008), https://www.nytimes.com/2008/08/03/magazine/03trolls-t.html?pagewanted=all&_r=0
 
 - Stryker, Cole. *Epic Win for Anonymous: How 4chan’s Army Conquered the Web* (New York: The Overlook Press, 2011).
 

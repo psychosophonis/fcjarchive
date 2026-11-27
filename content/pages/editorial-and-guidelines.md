@@ -265,7 +265,7 @@ Quotes within quotes should be distinguished by double quotation marks e.g. Hans
 
 ## 3. Reference Style Guide
 
-From Issue 31, in 2019, we ask authors to use [Chicago Style](httpss://www.chicagomanualofstyle.org/home.html) ([author-date](httpss://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html)) for Referencing.
+From Issue 31, in 2019, we ask authors to use [Chicago Style](https://www.chicagomanualofstyle.org/home.html) ([author-date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html)) for Referencing.
 
 IF you have no references, please list SUGGESTED FURTHER READING at the end of your piece.
 

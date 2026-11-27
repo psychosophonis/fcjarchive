@@ -163,11 +163,11 @@ Adam Fish is a social anthropologist of digital culture, business, and politics
 
 ### References
 
-- AnonymousFacts. *YouTube* (nd) httpss://www.youtube.com/user/AnonymousFacts
+- AnonymousFacts. *YouTube* (nd) https://www.youtube.com/user/AnonymousFacts
 
-- Anonymousworldwar3. ‘ANONYMOUS – A Call For Video Mirroring’, *YouTube* (2010), httpss://www.youtube.com/watch?v=MBkGvPTDryw
+- Anonymousworldwar3. ‘ANONYMOUS – A Call For Video Mirroring’, *YouTube* (2010), https://www.youtube.com/watch?v=MBkGvPTDryw
 
-- Askanius, Tina. ‘Online Video Activism and Political Mash-up Genres’,* JOMEC Journal Journalism Media and Cultural Studies *(2013) httpss://lup.lub.lu.se/search/publication/4180637
+- Askanius, Tina. ‘Online Video Activism and Political Mash-up Genres’,* JOMEC Journal Journalism Media and Cultural Studies *(2013) https://lup.lub.lu.se/search/publication/4180637
 
 - Barad, Karen. ‘Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter’, *Signs: Journal of Women in Culture and Society* 28.3 (2003): 801–831.
 
@@ -181,7 +181,7 @@ Adam Fish is a social anthropologist of digital culture, business, and politics
 
 - Christiansen, Christian. ‘Political Documentary, Online Organization, and Activist Synergies’, *Studies in Documentary Film* 3.2 (2009): 77–94.
 
-- Church0fScientology. ‘Message to Scientology’, *YouTube* (2008) httpss://www.youtube.com/watch?v=JCbKv9yiLiQ
+- Church0fScientology. ‘Message to Scientology’, *YouTube* (2008) https://www.youtube.com/watch?v=JCbKv9yiLiQ
 
 - Coleman, Gabriella. ‘The Aesthetic Face(s) of Anonymous’, *Savage Minds* (2010) https://savageminds.org/2010/12/15/aesthetic-face-of-anonymou/
 
@@ -211,7 +211,7 @@ Adam Fish is a social anthropologist of digital culture, business, and politics
 
 - Downing, John. *Radical Media* (London: Sage, 2001).
 
-- Ernesto. ‘Pirate Bay Founder Gets Ready to Run for European Parliament’, *Torrentfreak* (2014), httpss://torrentfreak.com/pirate-bay-founder-peter-sunde-arrested-sweden–140531/
+- Ernesto. ‘Pirate Bay Founder Gets Ready to Run for European Parliament’, *Torrentfreak* (2014), https://torrentfreak.com/pirate-bay-founder-peter-sunde-arrested-sweden–140531/
 
 - Featherstone, Mike. ‘Body, Image and Affect in Consumer Culture’, *Body & Society* 16.1 (2010): 193–221.
 
@@ -292,6 +292,6 @@ Adam Fish is a social anthropologist of digital culture, business, and politics
 
 - Wikileaks.info. ‘Mirrors’ (nd), https://wikileaks.info/
 
-- Wikileaks.org. (nd), httpss://wikileaks.org/Mirrors.html
+- Wikileaks.org. (nd), https://wikileaks.org/Mirrors.html
 
 - Williams, Linda. ‘Film Bodies: Gender, Genre, and Excess’, *Film Quarterly* 44.4 (Summer 1991): 2–13.

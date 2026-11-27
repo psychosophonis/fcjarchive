@@ -209,7 +209,7 @@ Mike Kent is a Senior Lecturer in the Department of Internet Studies at Curtin U
 
 - Butler, Patrick. ‘Disability Activists use Social Media to put Care Cuts on the Political Agenda’, *The* *Guardian,* 21 August (2012), https://www.theguardian.com/society/2012/aug/20/disability-activists-media-care-cuts
 
-- Campbell, S. J. et al. *Responsible Reform: A Report on the Proposed Changes to Disability Living Allowance. Diary of a Benefit Scrounger*, 9 January (2012), httpss://onedrive.live.com/view.aspx?resid=CBA86408918CAA9E!132&cid=cba86408918caa9e&app=Word&authkey=!AC0TRaigEZtaJw8
+- Campbell, S. J. et al. *Responsible Reform: A Report on the Proposed Changes to Disability Living Allowance. Diary of a Benefit Scrounger*, 9 January (2012), https://onedrive.live.com/view.aspx?resid=CBA86408918CAA9E!132&cid=cba86408918caa9e&app=Word&authkey=!AC0TRaigEZtaJw8
 
 - Campbell, S. J. ‘I Support the Spartacus Report’, *Diary of a Benefit Scrounger*, 9 January (2012), https://diaryofabenefitscrounger.blogspot.com.au/2012/01/i-support-spartacus-report.html
 
@@ -275,7 +275,7 @@ Mike Kent is a Senior Lecturer in the Department of Internet Studies at Curtin U
 
 - Hickey-Moody, Anna and Denise Wood. ‘Virtually Sustainable: Deleuze & Desiring Differenciation in Second Life’, *Continuum* 22 (2008): 805–816.
 
-- Hollier, Scott. *Sociability: Social Media for People with a Disability* (Sydney: Media Access, 2012), httpss://accan.org.au/our-work/research/444-sociability-social-media-for-people-with-a-disability
+- Hollier, Scott. *Sociability: Social Media for People with a Disability* (Sydney: Media Access, 2012), https://accan.org.au/our-work/research/444-sociability-social-media-for-people-with-a-disability
 
 - Hughes, Bill. ‘Disability Activisms: Social Model Stalwarts and Biological Citizens’, *Disability & Society* 24.6 (2009): 677–688.
 
@@ -378,9 +378,9 @@ Mike Kent is a Senior Lecturer in the Department of Internet Studies at Curtin U
 
 - Tsing, Anna Lowenhaupt. *Friction: An Ethnography of Global Connection* (Princeton, NJ: Princeton University Press, 2005).
 
-- Twitter. ‘Improving accessibility of Twitter.com’ December 2014 (2013) from httpss://blog.Twitter.com/2013/improving-accessibility-of-Twittercom
+- Twitter. ‘Improving accessibility of Twitter.com’ December 2014 (2013) from https://blog.Twitter.com/2013/improving-accessibility-of-Twittercom
 
-- Twitter. ‘Twittera11y team’, (2014) httpss://Twitter.com/a11yteam
+- Twitter. ‘Twittera11y team’, (2014) https://Twitter.com/a11yteam
 
 - Waddington, Lisa, Gerard Quinn and Eilionóir Flynn (eds). *European Yearbook of Disability Law* 5 (Cambridge, UK: Intersentia, 2015).
 

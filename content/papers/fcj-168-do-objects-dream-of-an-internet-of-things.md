@@ -198,11 +198,11 @@ Dr Teodor Mitew is currently with the School of the Arts, English and Media, Uni
 
 - [21] Consider the already classic example of a socially active household device – the ‘smart fridge’ (Rothensee, 2008).
 
-- [22] httpss://thingful.net
+- [22] https://thingful.net
 
-- [23] Thingful is the direct descendent of *Pachube –* an earlier prototype of IoT data infrastructure also created by Usman Haque. Pachube is now known as *Xively* [httpss://xively.com/], after it was bought by LogMeIn Inc.
+- [23] Thingful is the direct descendent of *Pachube –* an earlier prototype of IoT data infrastructure also created by Usman Haque. Pachube is now known as *Xively* [https://xively.com/], after it was bought by LogMeIn Inc.
 
-- [24] httpss://sen.se/store/mother/
+- [24] https://sen.se/store/mother/
 
 - [25] For example, Amin and Thrift make a convincing argument for a perspective on urban space as a hybrid (2002).
 

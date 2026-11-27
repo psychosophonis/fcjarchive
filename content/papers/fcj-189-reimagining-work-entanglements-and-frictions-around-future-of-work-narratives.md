@@ -170,7 +170,7 @@ Megan Halpern is a Postdoctoral Associate at Arizona State University. Her resea
 
 ### Notes
 
- [1] See httpss://www.freelancersunion.org
+ [1] See https://www.freelancersunion.org
 
  [2] See https://www.kellyservices.com/Global/The_Talent_Project_iPad_App/
 
@@ -320,6 +320,6 @@ Megan Halpern is a Postdoctoral Associate at Arizona State University. Her resea
 
 - Terranova, Tiziana. ‘Free Labor: Producing Culture for the Digital Economy’, *Social Text* 18.2 (2000): 33–58.
 
-- Tufekci, Zeynep. ‘Failing the Third Machine Age: When Robots Come for Grandma’,* Medium*, July 22 (2014), httpss://medium.com/message/failing-the-third-machine-age–1883e647ba74
+- Tufekci, Zeynep. ‘Failing the Third Machine Age: When Robots Come for Grandma’,* Medium*, July 22 (2014), https://medium.com/message/failing-the-third-machine-age–1883e647ba74
 
 - Wynne, Brian. ‘Public Engagement as a Means of Restoring Public Trust in Science-Hitting the Notes, but Missing the Music’? *Community Genetics* 9.3 (2006): 211–220.

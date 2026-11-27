@@ -117,7 +117,7 @@ This essay is indebted to Todd May’s mentorship and guidance while I was a doc
 - [4] One potential problem with Rancière’s political theory should be noted: the use of one partition of the sensible to diagnose another partition of the sensible to react against. From this perspective, whatever a group interprets as a presupposition of equality would only ever reflect equality as already defined by some previous partition of the sensible. This difficulty may explain why politics is never totalizing and politics only exists in relationship to specific enunciations against specific police orders. Foucault’s understanding of power might be useful as an illustrative analogy: there is no ‘outside’ to police orders or end of police orders. Along these lines, I agree in part with Samuels’ (2011) interpretation of Rancière in that we can only engage in ‘impure politics’ rather than achieve a permanent state where police orders disappear entirely (48).
  ### References
 
-- ‘Anonymous’, *Encyclopedia Dramatica* (May 11, 2011), httpss://encyclopediadramatica.se/Anonymous/Original
+- ‘Anonymous’, *Encyclopedia Dramatica* (May 11, 2011), https://encyclopediadramatica.se/Anonymous/Original
 
 - Bäcke, Maria. ‘Self, Setting, and Situation in Second Life’, in Francisco J. Ricard (ed.) *Literary Art in Digital Performance: Case Studies in New Media Art and Criticism* (New York: Continuum International Publishing Group): 111–133.
 
@@ -164,7 +164,7 @@ This essay is indebted to Todd May’s mentorship and guidance while I was a doc
 
 - O’Toole, T., S. Jones, et al. *Apathy or Alienation: Young People and Political Participation in the UK* (Basingstoke: Palgrave, 2006).
 
-- ‘Patriotic Nigras,’ *Encylopedia Dramatica* (2012), httpss://encyclopediadramatica.se/Patriotic_Nigras
+- ‘Patriotic Nigras,’ *Encylopedia Dramatica* (2012), https://encyclopediadramatica.se/Patriotic_Nigras
 
 - ‘Pool’s Closed,’ *Know Your Meme* (2012). https://knowyourmeme.com/memes/pools-closed
 
@@ -178,4 +178,4 @@ This essay is indebted to Todd May’s mentorship and guidance while I was a doc
 
 - Taylor, T.L. ‘The Assemblage of Play,’ *Games and Culture* 4 (2009): 331–339.
 
-- ‘The Internet is Serious Business,’ *Encyclopedia Dramatica* (2013), httpss://encyclopediadramatica.se/The_Internet_is_serious_business
+- ‘The Internet is Serious Business,’ *Encyclopedia Dramatica* (2013), https://encyclopediadramatica.se/The_Internet_is_serious_business

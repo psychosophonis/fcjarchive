@@ -150,7 +150,7 @@ For some sections of the popular press in Australia, and elsewhere, the accusati
 
 - Poole, Christopher. ‘Christopher ‘moot’ Poole: The case for anonymity online’, *TED Talks*. (February 2010). https://www.ted.com/talks/christopher_m00t_poole_the_case_for_anonymity_online.html
 
-- Rintel, Sean. ‘Social media winners and losers in the Olympics opening ceremony’, *The Conversation* (28 July 2012) httpss://theconversation.edu.au/social-media-winners-and-losers-in-the-olympics-opening-ceremony–8478
+- Rintel, Sean. ‘Social media winners and losers in the Olympics opening ceremony’, *The Conversation* (28 July 2012) https://theconversation.edu.au/social-media-winners-and-losers-in-the-olympics-opening-ceremony–8478
 
 - Sambrook, Richard. ‘The Olympics and TV’, *JOMEC Journal: Journalism, Media and Cultural Studies*, 2 (July 2012): 1–8.
 

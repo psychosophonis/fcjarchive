@@ -164,21 +164,21 @@ Susan Ballard is the co-director of the C3P Research Centre at the University of
 
 ### Notes
 
-[1] Francisco de Goya, *Y son fieras (And they are like wild beasts)* Plate 5 from *The Disasters of War (Los Desastres de la Guerra)* 1810 (published 1863) Etching, burnished aquatint and drypoint, 15.2 x 20.7cm. This reproduction sourced from Wikimedia Commons, and donated to Wikimedia Commons by the National Gallery of Art, Washington. [httpss://commons.wikimedia.org/wiki/File:Goya_-_Y_son_fieras_(And_They_Are_Like_Wild_Beasts).jpg](httpss://commons.wikimedia.org/wiki/File:Goya_-_Y_son_fieras_(And_They_Are_Like_Wild_Beasts).jpg)
+[1] Francisco de Goya, *Y son fieras (And they are like wild beasts)* Plate 5 from *The Disasters of War (Los Desastres de la Guerra)* 1810 (published 1863) Etching, burnished aquatint and drypoint, 15.2 x 20.7cm. This reproduction sourced from Wikimedia Commons, and donated to Wikimedia Commons by the National Gallery of Art, Washington. [https://commons.wikimedia.org/wiki/File:Goya_-_Y_son_fieras_(And_They_Are_Like_Wild_Beasts).jpg](https://commons.wikimedia.org/wiki/File:Goya_-_Y_son_fieras_(And_They_Are_Like_Wild_Beasts).jpg)
 
-[2] Ruth Buchanan, *Circular Facts* (2009/2010), coated MDF board, powder coated steel frames, brushed cotton, coated 35mm slide projector stand, audio and 35mm slide on synchronised loop on headphones, two chairs borrowed from Hotel Bad Toelz, dimensions and duration variable. Installation view: Monumentalism, Stedelijk Museum, Amsterdam. [httpss://ocula.com/artists/ruth-buchanan/](httpss://ocula.com/artists/ruth-buchanan/)
+[2] Ruth Buchanan, *Circular Facts* (2009/2010), coated MDF board, powder coated steel frames, brushed cotton, coated 35mm slide projector stand, audio and 35mm slide on synchronised loop on headphones, two chairs borrowed from Hotel Bad Toelz, dimensions and duration variable. Installation view: Monumentalism, Stedelijk Museum, Amsterdam. [https://ocula.com/artists/ruth-buchanan/](https://ocula.com/artists/ruth-buchanan/)
 
 [3] Sue Turnbull asked me this question during a panel presentation following a very early version of these thoughts at *Telling Truths: Crime Fiction and National Allegory* (UOW, December 2012). I hope the essay below begins to answer her misgivings. I thank Sue for the provocation, and also my co-authors in MECO, The Material Ecologies research network, and the Centre for Critical Creative Practice at UOW for ongoing conversations about what art and writing can do.
 
 [4] Trevor Paglen, *Trinity Cube*, (2015) Irradiated glass and Trinitite (purchased off the internet), 20 x 20 x 20cm. Installed as part of Chim↑Pom’s Don’t Follow the Wind, Fukushima exclusion zone, Japan 11 March 2015 – XX XX XXXX. *Don’t Follow the Wind: A Walk in Fukushima*, 360 degree video, headsets, cafe furniture from Fukushima, Australian uranium, maps, installation commissioned by the 20th Biennale of Sydney, 20th Biennale of Sydney, Carriageworks, 18 March 2016 – 5 June 2016. *Don’t Follow the Wind* is long term exhibition inside the inaccessible radioactive Fukushima exclusion zone formed after the nuclear disaster. Initiated by Chim↑Pom and co-developed with the curators Kenji Kubota, Eva and Franco Mattes, and Jason Waite. The project collaborates with displaced local residents and includes 12 artists developing new work inside the zone: Ai Weiwei, Aiko Miyanaga, Chim↑Pom, Grand Guignol Mirai, Nikolaus Hirsch and Jorge Otero-Pailos, Kota Takeuchi, Eva and Franco Mattes, Meiro Koizumi, Nobuaki Takekawa, Ahmet Ögüt, Trevor Paglen, and Taryn Simon. More details at [dontfollowthewind.info](https://dontfollowthewind.info)
 
-[5] See ‘Trial of a Sow and Pigs at Lavegny’ from Robert Chambers (ed) *The book of days, a miscellany of popular antiquities in connection with the calendar, including anecdote, biography, & history, curiosities of literature and oddities of human life and character*. httpss://archive.org/details/bookofdaysmiscel01cham_1
+[5] See ‘Trial of a Sow and Pigs at Lavegny’ from Robert Chambers (ed) *The book of days, a miscellany of popular antiquities in connection with the calendar, including anecdote, biography, & history, curiosities of literature and oddities of human life and character*. https://archive.org/details/bookofdaysmiscel01cham_1
 
 [6] The entire event was staged, with the car driven by a friend of Paik’s. [https://www.medienkunstnetz.de/works/robot-k-456/](https://www.medienkunstnetz.de/works/robot-k-456/)
 
 [7] Francis Alÿs, *If you are a Typical Spectator, What you are Really Doing is Waiting for the Accident to Happen* (1996) performance, Mexico City. [https://francisalys.com/if-you-are-a-typical-spectator-what-you-are-really-doing-is-waiting-for-the-accident-to-happen-bottle/](https://francisalys.com/if-you-are-a-typical-spectator-what-you-are-really-doing-is-waiting-for-the-accident-to-happen-bottle/)
 
-[8] Douglas Gordon, *Play Dead: Real Time*, Three channel video (colour silent) two projectors, two screens, monitor, 19:11min. Collection of the Museum of Modern Art, New York. httpss://www.moma.org/collection/works/100620
+[8] Douglas Gordon, *Play Dead: Real Time*, Three channel video (colour silent) two projectors, two screens, monitor, 19:11min. Collection of the Museum of Modern Art, New York. https://www.moma.org/collection/works/100620
 
 [9] Mikala Dwyer, *An Apparition of a Subtraction* (2010) audio, smoke machines, sandstone, plants, lights, acrylic, chair, wood, clay, plastic, ashes ( grandmother), wood carving ( father in law- Leslie Corben), table, electrical cord, dimensions variable. 17th Biennale of Sydney (2010) at Cockatoo Island curated by David Elliot. [https://www.mikaladwyer.com/an-apparition-of-a-subtraction-2010/](https://www.mikaladwyer.com/an-apparition-of-a-subtraction-2010/)
 
@@ -192,9 +192,9 @@ Susan Ballard is the co-director of the C3P Research Centre at the University of
 
 - Bouwhuis, Jelle. *Monumentalism[e]: History, National Identity and Contemporary Art* (Stedelijk Museum, Amsterdam and NAI Publishers, Amsterdam, 2010).
 
-- Byrt, Anthony. ‘Frontier Spirits: Myth, Ghosts and borders in the work of Mikala Dwyer’, *Frieze* 1 (May, 2011), [httpss://frieze.com/article/frontier-spirits](httpss://frieze.com/article/frontier-spirits)
+- Byrt, Anthony. ‘Frontier Spirits: Myth, Ghosts and borders in the work of Mikala Dwyer’, *Frieze* 1 (May, 2011), [https://frieze.com/article/frontier-spirits](https://frieze.com/article/frontier-spirits)
 
-- Chambers, Robert (ed.). *The book of days, a miscellany of popular antiquities in connection with the calendar, including anecdote, biography, & history, curiosities of literature and oddities of human life and character* (London and Edinburgh: W&R Chambers ltd, 1863), [httpss://archive.org/details/bookofdaysmiscel01cham_1](httpss://archive.org/details/bookofdaysmiscel01cham_1)
+- Chambers, Robert (ed.). *The book of days, a miscellany of popular antiquities in connection with the calendar, including anecdote, biography, & history, curiosities of literature and oddities of human life and character* (London and Edinburgh: W&R Chambers ltd, 1863), [https://archive.org/details/bookofdaysmiscel01cham_1](https://archive.org/details/bookofdaysmiscel01cham_1)
 
 - Conway, Anne. *The Principles of the Most Ancient and Modern Philosophy* [London: 1692], trans. and ed. Allison P. Coudert and Taylor Corse (Cambridge: Cambridge University Press, 1996).
 
@@ -206,18 +206,18 @@ Susan Ballard is the co-director of the C3P Research Centre at the University of
 
 - Deleuze, Gilles, and Felix Guattari. ‘Becoming-Intense, Becoming-Animal’, in *A Thousand Plateaus: Capitalism and Schizophrenia*, trans. Brian Massumi (Minneapolis: University of Minnesota Press, 1987).
 
-- Dwyer, Mikala, in conversation with Richard Watts. ‘Working with Geological Memory’, *Arts Hub*, Wednesday 19 May 2010. [httpss://visual.artshub.com.au/news-article/features/visual-arts/working-with-geological-memory-181255](httpss://visual.artshub.com.au/news-article/features/visual-arts/working-with-geological-memory-181255)
+- Dwyer, Mikala, in conversation with Richard Watts. ‘Working with Geological Memory’, *Arts Hub*, Wednesday 19 May 2010. [https://visual.artshub.com.au/news-article/features/visual-arts/working-with-geological-memory-181255](https://visual.artshub.com.au/news-article/features/visual-arts/working-with-geological-memory-181255)
 
-- E.A.M. ‘The Modern Mechanical Moloch’ in *The Mechanics’ Magazine, Museum, Register, Journal and Gazette* xxxvi (Jan-June, 1842): 5-8, [httpss://archive.org/details/in.ernet.dli.2015.21363](httpss://archive.org/details/in.ernet.dli.2015.21363)
+- E.A.M. ‘The Modern Mechanical Moloch’ in *The Mechanics’ Magazine, Museum, Register, Journal and Gazette* xxxvi (Jan-June, 1842): 5-8, [https://archive.org/details/in.ernet.dli.2015.21363](https://archive.org/details/in.ernet.dli.2015.21363)
 
 - Gratton, Peter. ‘Jane Bennett: The Interview’, *Philosophy in a Time of Error*, 22 April 2010,
- [httpss://philosophyinatimeoferror.com/2010/04/22/vibrant-matters-an-interview-with-jane-bennett/](httpss://philosophyinatimeoferror.com/2010/04/22/vibrant-matters-an-interview-with-jane-bennett/)
+ [https://philosophyinatimeoferror.com/2010/04/22/vibrant-matters-an-interview-with-jane-bennett/](https://philosophyinatimeoferror.com/2010/04/22/vibrant-matters-an-interview-with-jane-bennett/)
 
 - Hanhardt, John. ‘Chance in a Lifetime’, *ArtForum* (April, 2006), [https://artforum.com/inprint/issue=200604&id=10623](https://artforum.com/inprint/issue=200604&id=10623)
 
 - Harman, Graham. *Prince of Networks: Bruno Latour and Metaphysics* (Melbourne: re:press, 2009).
 
-- Hutton, Sarah. ‘Lady Anne Conway’, in Edward N. Zalta (ed.) *The Stanford Encyclopedia of Philosophy* (Fall, 2015), [httpss://plato.stanford.edu/archives/fall2015/entries/conway/](httpss://plato.stanford.edu/archives/fall2015/entries/conway/)
+- Hutton, Sarah. ‘Lady Anne Conway’, in Edward N. Zalta (ed.) *The Stanford Encyclopedia of Philosophy* (Fall, 2015), [https://plato.stanford.edu/archives/fall2015/entries/conway/](https://plato.stanford.edu/archives/fall2015/entries/conway/)
 
 - Jones, Jonathan. ‘Look what we did’, *The Guardian* 1 April (2003), [https://www.guardian.co.uk/culture/2003/mar/31/artsfeatures.turnerprize2003](https://www.guardian.co.uk/culture/2003/mar/31/artsfeatures.turnerprize2003)
 
@@ -235,22 +235,22 @@ Susan Ballard is the co-director of the C3P Research Centre at the University of
 
 - Pietz , William. ‘Death of the Deodand: Accursed Objects and the Money Value of Human Life’, *Res: Anthropology and Aesthetics* 31 (Spring 1997): 97-108.
 
-- Rice, Martin, and Will Steffen. ‘Putting Carbon back in the land is just a smokescreen for real climate action: Climate Council report’, *The Conversation*, 29 September (2016), [httpss://theconversation.com/putting-carbon-back-in-the-land-is-just-a-smokescreen-for-real-climate-action-climate-council-report-65475](httpss://theconversation.com/putting-carbon-back-in-the-land-is-just-a-smokescreen-for-real-climate-action-climate-council-report-65475)
+- Rice, Martin, and Will Steffen. ‘Putting Carbon back in the land is just a smokescreen for real climate action: Climate Council report’, *The Conversation*, 29 September (2016), [https://theconversation.com/putting-carbon-back-in-the-land-is-just-a-smokescreen-for-real-climate-action-climate-council-report-65475](https://theconversation.com/putting-carbon-back-in-the-land-is-just-a-smokescreen-for-real-climate-action-climate-council-report-65475)
 
 - Shaw, Philip. ‘Abjection Sustained: Goya, the Chapman brothers and the Disasters of War’, *Art History* 26.4 (September, 2003): 479-504.
 
 - Steffen, Will, Jacques Grinevald, Paul Crutzen, and John McNeill. ‘The Anthropocene: conceptual and historical perspectives’, *Philosophical Transactions of the Royal Society, A.* 369 (31 January 2011): 842-867, DOI: 10.1098/rsta.2010.0327.
 
-- Steven, Nadler. ‘Baruch Spinoza’, in Edward N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Summer 2018), [httpss://plato.stanford.edu/archives/sum2018/entries/spinoza/](httpss://plato.stanford.edu/archives/sum2018/entries/spinoza/)
+- Steven, Nadler. ‘Baruch Spinoza’, in Edward N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Summer 2018), [https://plato.stanford.edu/archives/sum2018/entries/spinoza/](https://plato.stanford.edu/archives/sum2018/entries/spinoza/)
 
-- Sullivan, Patrick and Kassie Siegel. ‘New Report: Airplane Pollution Jepardizes Paris Climate Goals’, *Centre for Biological Diversity*, 2 December (2015), [httpss://www.biologicaldiversity.org/news/press_releases/2015/airplane-emissions-12-02-2015.html](httpss://www.biologicaldiversity.org/news/press_releases/2015/airplane-emissions-12-02-2015.html)
+- Sullivan, Patrick and Kassie Siegel. ‘New Report: Airplane Pollution Jepardizes Paris Climate Goals’, *Centre for Biological Diversity*, 2 December (2015), [https://www.biologicaldiversity.org/news/press_releases/2015/airplane-emissions-12-02-2015.html](https://www.biologicaldiversity.org/news/press_releases/2015/airplane-emissions-12-02-2015.html)
 
 - Sutton, Teresa. ‘The Deodand and the Responsibility for Death’, *The Journal of Legal History*, 18.3 (1997): 44-55.
 
 - Thackerary, William Makepeace. ‘May Gambols; or, Titmarsh in the Picture-Galleries’, *Fraser’s Magazine* 29 (1844): 712-13.
 
 - Thomas, Inigo. ‘The Chase’, *London Review of Books*, 38.20, 20 October (2016),
- [httpss://www.lrb.co.uk/v38/n20/inigo-thomas/the-chase](httpss://www.lrb.co.uk/v38/n20/inigo-thomas/the-chase)
+ [https://www.lrb.co.uk/v38/n20/inigo-thomas/the-chase](https://www.lrb.co.uk/v38/n20/inigo-thomas/the-chase)
 
 - Tredinnick, Mark. *The Land’s Wild Music: Encounters with Barry Lopez, Peter Matthiessen, Terry Tempest William and James Galvin* (San Antonio: Trinity University Press, 2011).
 

@@ -68,7 +68,7 @@ Associate Professor Glen Fuller is the Head of School, School of Arts and Commun
 
 ### Notes
 
-[1] [httpss://www.etymonline.com/word/project](httpss://www.etymonline.com/word/project)
+[1] [https://www.etymonline.com/word/project](https://www.etymonline.com/word/project)
 
 ### References
 
@@ -80,13 +80,13 @@ Associate Professor Glen Fuller is the Head of School, School of Arts and Commun
 
 - Gill, Rosalind. ‘Breaking the silence: The hidden injuries of the neoliberal university’ in Roisin Ryan-Flood and Rosalind Gill (eds.) *Secrecy and silence in the research process: Feminist reflections (*London: Routledge, 2009): 228-244.
 
-- Larivière Vincent, Haustein, Stefanie and Mongeon, Philippe. ‘The Oligopoly of Academic Publishers in the Digital Era’ *PLOS ONE* (2015) [httpss://doi.org/10.1371/journal.pone.0127502](httpss://doi.org/10.1371/journal.pone.0127502)
+- Larivière Vincent, Haustein, Stefanie and Mongeon, Philippe. ‘The Oligopoly of Academic Publishers in the Digital Era’ *PLOS ONE* (2015) [https://doi.org/10.1371/journal.pone.0127502](https://doi.org/10.1371/journal.pone.0127502)
 
 - Liu, Ziming. ‘Trends in transforming scholarly communication and their implications’, *Information Processing & Management* 39 (2003): 889-898.
 
-- Murphie, Andrew. ‘Auditland’, *PORTAL journal of multidisciplinary international studies* 11, (2014). [httpss://epress.lib.uts.edu.au/journals/index.php/portal/article/view/3407/4581](httpss://epress.lib.uts.edu.au/journals/index.php/portal/article/view/3407/4581)
+- Murphie, Andrew. ‘Auditland’, *PORTAL journal of multidisciplinary international studies* 11, (2014). [https://epress.lib.uts.edu.au/journals/index.php/portal/article/view/3407/4581](https://epress.lib.uts.edu.au/journals/index.php/portal/article/view/3407/4581)
 
-- Nadal-Burgués, Nuria. ‘Managing research projects: judgment as a source of creativity’, PhD thesis, (2015) Ramon Llull University. [httpss://www.tdx.cat/bitstream/handle/10803/295838/20150429%20NURIA%20NADAL%20DOCTORAL%20THESIS.pdf](httpss://www.tdx.cat/bitstream/handle/10803/295838/20150429%20NURIA%20NADAL%20DOCTORAL%20THESIS.pdf)
+- Nadal-Burgués, Nuria. ‘Managing research projects: judgment as a source of creativity’, PhD thesis, (2015) Ramon Llull University. [https://www.tdx.cat/bitstream/handle/10803/295838/20150429%20NURIA%20NADAL%20DOCTORAL%20THESIS.pdf](https://www.tdx.cat/bitstream/handle/10803/295838/20150429%20NURIA%20NADAL%20DOCTORAL%20THESIS.pdf)
 
 - O’Neill, Maggie. ‘The Slow University: Work, Time and Well-Being’, *Forum: Qualitative Social Research* 15 (2014). [https://www.qualitative-research.net/index.php/fqs/article/view/2226](https://www.qualitative-research.net/index.php/fqs/article/view/2226)
 

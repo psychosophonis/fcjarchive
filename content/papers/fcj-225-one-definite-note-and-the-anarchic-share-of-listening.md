@@ -126,7 +126,7 @@ Andrew Goodman is a visual artist with an interest in ecology, science fiction a
 
 [5] Nor should we mistake sounds for or conflate them with their sources. As Cox argues, sounds are not bound to their sources, but are distinct ‘individuals’, although in reality they are less individuals than emergent collectivities (2011: 156).
 
-[6] Performed 23/6.17 at the Odion, Athens. See the documenta 14 website: httpss://www.documenta14.de/en/calendar/17031/so-you-hermes-orpheus-eurydice-
+[6] Performed 23/6.17 at the Odion, Athens. See the documenta 14 website: https://www.documenta14.de/en/calendar/17031/so-you-hermes-orpheus-eurydice-
 
 [7] In a similar vein, see, for example, J.J. Gibson’s work to correct this fallacy in regard to the perception of vision (Gibson, 1986).
 
@@ -166,7 +166,7 @@ It is worth noting that not only is there a distinct difference between the timb
 
 [24] As with the division and layering of the physical prehensions of the note, these conceptual qualities are vastly complex and nuanced, though unlike the physical prehensions that must logically touch the whole history of the universe either positively or negatively through some degree of remove, only selected eternal objects need be incorporated into the experience.
 
-[25] *documenta 14* website: httpss://www.documenta14.de/en/calendar/17031/so-you-hermes-orpheus-eurydice-
+[25] *documenta 14* website: https://www.documenta14.de/en/calendar/17031/so-you-hermes-orpheus-eurydice-
 
 [26] On the role of consciousness in feeling see Whitehead (1978, 241-243).
 
@@ -244,7 +244,7 @@ As in most of Lucier’s work, there is a deliberate avoidance of the ‘tricks�
 
 - Stengers, Isabelle. *Thinking with Whitehead: A Free and Wild Creation of Concepts* (Cambridge, Massachucetts and London: Harvard University Press, 2011).
 
-- Straebel, Volker, and Wilm Thoben. ‘Alvin Lucier’s Music for Solo Performer:Experimental music beyond sonification’, [httpss://doi.org/10.1017/S135577181300037X](httpss://doi.org/10.1017/S135577181300037X)
+- Straebel, Volker, and Wilm Thoben. ‘Alvin Lucier’s Music for Solo Performer:Experimental music beyond sonification’, [https://doi.org/10.1017/S135577181300037X](https://doi.org/10.1017/S135577181300037X)
 
 - Whitehead, Alfred North. *The Concept of Nature* (Cambridge: Cambridge University Press, 1964).
 

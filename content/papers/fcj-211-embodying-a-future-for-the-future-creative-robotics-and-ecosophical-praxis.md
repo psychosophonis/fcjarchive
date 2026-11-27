@@ -122,7 +122,7 @@ Keith Armstrong has specialised for 22 years in collaborative, hybrid, new media
 
 ### References
 
-- Armstrong, Keith. ‘Statement from Exhibition *Light of Extinction*‘, *Media Art China* (2014), httpss://mediaartchina.org/exhibitions/ensemble–parliament-of-things/light-of-extinction-au/
+- Armstrong, Keith. ‘Statement from Exhibition *Light of Extinction*‘, *Media Art China* (2014), https://mediaartchina.org/exhibitions/ensemble–parliament-of-things/light-of-extinction-au/
 
 - Armstrong, Keith. ‘Intimate Transactions: The Evolution of an Ecosophical Networked Practice’, *Fibreculture* 7 (2005), [https://seven.fibreculturejournal.org/fcj-047-intimate-transactions-the-evolution-of-an-ecosophical-networked-practice/](../papers/fcj-047-intimate-transactions-the-evolution-of-an-ecosophical-networked-practice.md)
 
