@@ -49,11 +49,10 @@ def issue_order(issues) -> list[str]:
 # from the output. Change it here if the archive moves.
 CANONICAL_HOST = "fibreculturejournal.org"
 
-# Where the Markdown archive lives, for the link in the footer. Empty until the
-# repository exists; while it is empty the footer simply omits the link rather
-# than publishing a dead one, and the build says so on every run. One edit here
-# turns it on everywhere.
-ARCHIVE_REPO = ""
+# Where the Markdown archive lives, for the link in the footer. While empty the
+# footer omits the link rather than publishing a dead one, and the build says so
+# on every run. Set once the public repository existed, 2026-11-27.
+ARCHIVE_REPO = "https://github.com/psychosophonis/fcjarchive"
 
 
 @dataclass

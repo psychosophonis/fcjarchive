@@ -110,10 +110,9 @@ concerns mesh (permitted `absent`), and invariant 1 is enforced over both
    is verified to exist, but a JSON file is not a redirect. It needs a
    CloudFront Function with a KeyValueStore (1,766 rules is past the inline
    limit), or a Caddy/nginx map. A deployment decision, not code.
-4. **`ARCHIVE_REPO` is unset in `build/generate.py`,** so every page footer
-   omits the link from the published site back to the Markdown archive, and the
-   build warns on every run. One string, once the repo has a public home —
-   which is the same decision as item 3.
+4. ~~**`ARCHIVE_REPO` is unset**~~ — resolved 2026-11-27: set to
+   https://github.com/psychosophonis/fcjarchive, so every page footer links
+   back to the Markdown archive.
 5. **198 domains on 61 apex-only pages are untestable** by the twin-diff, since
    those pages have no clean copy. None are published; see fcj-problems.md P3.
 6. **Transitive supplementary material.** 14 of FCJ-062's 53 dynmed files are
