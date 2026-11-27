@@ -117,9 +117,11 @@ concerns mesh (permitted `absent`), and invariant 1 is enforced over both
    those pages have no clean copy. None are published; see fcj-problems.md P3.
 6. **Transitive supplementary material.** 14 of FCJ-062's 53 dynmed files are
    adopted; files linked from *those* pages are not followed.
-7. **FCJ-203 and FCJ-212 have no recorded authors** — no citation metadata in
-   the mirror. FCJ-212 is issue 29's editorial. They are skipped for offprints
-   rather than bylined "Anonymous".
+7. ~~**FCJ-203 and FCJ-212 have no recorded authors**~~ — resolved
+   2026-11-27. They are peer-reviewed issue editorials; their posts carry
+   `issueeditor` rather than `dccreator`, and that list includes the managing
+   editors, who are not authors. Declared in `extract.EDITORIAL_AUTHORS` from
+   Mat's account; both now have offprints.
 8. **Banners are on by default.** Only 13 of 31 issues have their own; the
    rest share one generic strip, which is not an identity and is not
    extracted. Still undecided whether the 13 should show at all.

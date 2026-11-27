@@ -53,6 +53,7 @@ class ExtractReport:
     media: int = 0
     media_bytes: int = 0
     with_authors: int = 0
+    authors_declared: int = 0      # from EDITORIAL_AUTHORS, not the page
     without_authors: list[str] = None
     with_abstract: int = 0
     paragraph_numbers: int = 0
@@ -698,6 +699,23 @@ INSTITUTIONAL_PAGES = [
 # Scoped to a SECTION of a page, not the whole page, because "Andrew Murphie"
 # is also one of the five Journal Editors on this same page and must not be
 # touched there.
+#
+# Authors for the numbered editorials whose pages record none.
+#
+# An issue editorial that was peer reviewed gets an FCJ number, and its editors
+# are its authors. But these two posts carry no `dccreator`, the field the
+# theme turns into `citation_author`; they have only `issueeditor` (2022 dump,
+# wp_1_posts 3096 and 3172). That field cannot be used as the author list: it
+# mixes the issue's editors with the journal's MANAGING editors — Andrew
+# Murphie on issue 28, Su Ballard on issue 29 — who did not write the
+# editorial, and nothing in the data tells the two roles apart. So a rule
+# "authors = issue editors" would misattribute both. Declared explicitly, from
+# Mat, 2026-11-27, and applied only where the page records no author at all,
+# so a real `citation_author` can never be overridden.
+EDITORIAL_AUTHORS = {
+    "FCJ-203": ("Petra Gemeinboeck", "Elena Knox", "Jill Bennett"),
+    "FCJ-212": ("Armin Beverungen", "Florian Sprenger"),
+}
 CORRECTIONS = [
     {
         "slug": "editorial-and-guidelines",
@@ -1093,6 +1111,12 @@ def write_content(man: inventory.Manifest, out_dir: str = CONTENT,
         names = markdown.authors(doc)
         identifier = markdown.doi(doc, body[:4000])
         affiliation, body = take_byline(body, names)
+        # Declared after `take_byline`, not before, so a declaration changes the
+        # front matter and never the published text: the "Introduction by …"
+        # paragraph stays in the body exactly as the journal printed it.
+        if not names and paper.fcj_id in EDITORIAL_AUTHORS:
+            names = list(EDITORIAL_AUTHORS[paper.fcj_id])
+            report.authors_declared += 1
         abstract, body = take_abstract(body)
         # A heading with no text is a styling hook the old theme left behind,
         # and it is the one piece of issue furniture that also reaches papers.
@@ -1377,7 +1401,9 @@ def _main() -> None:
     rep = write_content(man)
     print(f"content/: {rep.papers} papers, {rep.issues} issues, "
           f"{rep.media} media files ({rep.media_bytes / 1024 / 1024:.0f} MB)")
-    print(f"  authors from citation metadata: {rep.with_authors}/{rep.papers}")
+    print(f"  authors: {rep.with_authors}/{rep.papers} "
+          f"({rep.with_authors - rep.authors_declared} from citation metadata, "
+          f"{rep.authors_declared} declared in EDITORIAL_AUTHORS)")
     print(f"  abstracts lifted to front matter: {rep.with_abstract}")
     print(f"  paragraph numbers preserved: {rep.paragraph_numbers:,}")
     print(f"  issue banners extracted: {rep.banners} of 31")

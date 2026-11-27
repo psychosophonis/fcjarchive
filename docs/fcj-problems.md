@@ -61,6 +61,14 @@ following the journal's own links arrives at the paper.
 
 ## P2 — FCJ-222 unaccounted for
 
+### RESOLVED 2026-11-27 — the number of an editorial that was never written
+
+The 2022 database dump answers it: post 3268, created 2019-12-16, titled
+"Issue 30 : FCJ-222 Incalculable Experience", content "Editorial will appear
+here shortly", status `trash`. FCJ-222 was reserved for issue 30's editorial;
+the placeholder was never filled and was deleted. Nothing is missing from the
+archive. The dump was the one source not searched below.
+
 227 of 228 FCJ numbers are present. FCJ-222 appears nowhere: not in 4,592
 archive files, not in `fcj-clean.cdx`, not in `good-urls.txt`. It sits exactly on
 the issue boundary (issue 29 ends FCJ-221, issue 30 begins FCJ-223) and is in
@@ -343,7 +351,7 @@ The generated offprints were rendered before the repair; re-run
 
 ## Open questions for Mat
 
-1. **FCJ-222** — withdrawn or skipped? Nothing in the archive can say (P2).
+1. ~~**FCJ-222** — withdrawn or skipped?~~ Neither: it was never written (P2).
 2. **The P1 503s** — replace the seven holds with 301s on the live site? The
    clean twins are already on disk; this is the one change that would stop the
    live site losing five papers today.

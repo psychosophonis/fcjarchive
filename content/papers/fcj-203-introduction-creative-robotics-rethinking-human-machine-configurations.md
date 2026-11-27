@@ -1,6 +1,10 @@
 ---
 fcj_id: FCJ-203
 title: "Issue 28 :  Creative Robotics – Rethinking Human Machine Configurations"
+authors:
+  - Petra Gemeinboeck
+  - Elena Knox
+  - Jill Bennett
 issue: 28
 published: 2016-12-22
 doi: 10.15307/fcj.28

@@ -4,10 +4,11 @@
 # 237 papers held. 227 of the 228 numbered articles are present.
 
 FCJ-222
-    Absent from the mirror, from the crawl index, and from the tables of
-    contents of both adjacent issues. It sits exactly on the issue boundary:
-    issue 29 ends at FCJ-221 and issue 30 begins at FCJ-223. Wayback holds no
-    capture of it either, and no capture of FCJ-223 to FCJ-228, which
-    demonstrably exist, so its coverage of thirty.fibreculturejournal.org is
-    too thin to prove anything. Withdrawn or skipped; only editorial records
-    can say which. See ../fcj-problems.md P2.
+    Never published. The number was reserved for the issue 30 editorial: the
+    2022 database holds it as post 3268, created 2019-12-16, titled 'Issue 30
+    : FCJ-222 Incalculable Experience', with the content 'Editorial will
+    appear here shortly' and the status 'trash'. The editorial was never
+    written and the placeholder was deleted, so there is nothing to recover.
+    It sits on the issue boundary — issue 29 ends at FCJ-221 and issue 30's
+    papers begin at FCJ-223 — which is where an issue's editorial number
+    falls. See ../fcj-problems.md P2.

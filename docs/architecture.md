@@ -115,7 +115,7 @@ NOT repurpose or silently drop these.
 |---|---|---|
 | `fcj_id` | yes | `FCJ-218`. Canonical identity, from the `<title>` citation |
 | `title` | yes | article title, without the id |
-| `authors` | — | list; absent only where the mirror records none (FCJ-203, FCJ-212) |
+| `authors` | yes | list. From `citation_author`; for the two numbered editorials whose posts record none (FCJ-203, FCJ-212), declared in `extract.EDITORIAL_AUTHORS` — their issue editors, not the journal's managing editors |
 | `affiliation` | — | as printed in the byline |
 | `issue` | yes | `1`…`30` or `mesh` |
 | `published` | — | ISO date |
@@ -769,8 +769,8 @@ of the same paper into circulation. The split is exact and has no overlap:
 | | count |
 |---|---|
 | publisher PDF, used as-is | 109 |
-| archival offprint generated | 126 |
-| neither — no recorded author, so no byline | 2 (FCJ-203, FCJ-212) |
+| archival offprint generated | 128 |
+| neither | 0 |
 
 A paper with no recorded author gets no offprint: a PDF with no byline is worse
 than no PDF for deposit, so those two are reported by name rather than bylined

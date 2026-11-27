@@ -10,7 +10,7 @@ and sustainability. This system was designed to answer that and to provide a
 secure archive. It is increasingly being developed as a more resilient journal
 system.
 
-**237 articles · 31 issue editorials · 227 of the 228 numbered articles.**
+**237 articles · 31 issue editorials · every FCJ number that was published.**
 
 ## What is here
 
@@ -89,10 +89,9 @@ sed -E 's/ *\{#para[0-9]+\}//g' content/papers/fcj-218-*.md
 Recorded rather than hidden; see [`docs/fcj-problems.md`](docs/fcj-problems.md) and
 [`docs/IMPLEMENTATION.md`](docs/IMPLEMENTATION.md).
 
-- **FCJ-222** is absent from the mirror, the crawl and both adjacent tables of
-  contents, with the reason recorded in `data/known-absent.txt`.
-- **FCJ-203 and FCJ-212** carry no author in the journal's own metadata, so they
-  get no generated offprint — a PDF with no byline is worse than none.
+- **There is no FCJ-222.** The number was reserved for the issue 30
+  editorial, which was never written; `data/known-absent.txt` records the
+  evidence.
 - **82 internal links** point at supplementary material the crawl never
   captured. They keep their text and record where they pointed, rather than
   being silently dropped.

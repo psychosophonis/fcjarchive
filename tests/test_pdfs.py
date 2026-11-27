@@ -291,16 +291,25 @@ class TestEngineHandling(_TempContent):
             if meta.get("pdf") and has_offprint:
                 both.append(slug)
         self.assertEqual(both, [], "a paper has two different PDFs of itself")
-        # 237 papers less the two with no recorded author, which get neither.
-        self.assertEqual(publisher + generated, 235)
+        # Every paper has exactly one: since FCJ-203 and FCJ-212 gained their
+        # authors (2026-11-27), none is withheld for want of a byline.
+        self.assertEqual(publisher + generated, 237)
 
-    @needs_content
     def test_papers_with_no_author_are_reported_not_bylined_anonymous(self):
-        """FCJ-203 and FCJ-212 carry no citation metadata. A PDF with no byline
-        is worse than no PDF for deposit, so they are named, not guessed at."""
-        report = pdfs.build(content_dir=self.content,
-                            only=["fcj-203", "fcj-212"])
-        self.assertTrue(set(report.skipped_no_author) <= {"FCJ-203", "FCJ-212"})
+        """A PDF with no byline is worse than no PDF for deposit, so a paper
+        with no recorded author is named and skipped, not guessed at. No real
+        paper is in that state any more, so the principle is held with a
+        synthetic one rather than by pointing at the archive."""
+        papers = os.path.join(self.content, "papers")
+        os.remove(papers)                      # the fixture's symlink
+        os.makedirs(papers)
+        with open(os.path.join(papers, "fcj-999-unattributed.md"), "w",
+                  encoding="utf-8") as fh:
+            fh.write("---\nfcj_id: FCJ-999\ntitle: Unattributed\nissue: 1\n---\n\n"
+                     "A paragraph of text. {#para1}\n")
+        report = pdfs.build(content_dir=self.content, only=["fcj-999"])
+        self.assertEqual(report.rendered, [])
+        self.assertEqual(list(report.skipped_no_author), ["FCJ-999"])
 
 
 @needs_engine

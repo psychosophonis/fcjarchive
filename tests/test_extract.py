@@ -209,15 +209,48 @@ class TestTheArchiveOnDisk(unittest.TestCase):
             self.assertTrue(meta.get("title"), slug)
             self.assertTrue(meta.get("issue"), slug)
 
-    def test_authorship_is_recorded_for_all_but_the_known_two(self):
+    def test_authorship_is_recorded_for_every_paper(self):
         """Academic presentation needs authors, so an unattributed article is a
-        defect, not a detail. FCJ-203 and FCJ-212 carry no citation metadata in
-        the mirror; FCJ-212 is issue 29's editorial. Asserted as the exact set
-        so that fixing one makes this test demand updating.
+        defect, not a detail. Until 2026-11-27 FCJ-203 and FCJ-212 had none:
+        they are peer-reviewed issue editorials whose posts carry `issueeditor`
+        rather than the `dccreator` the theme turns into `citation_author`.
+        They are now declared in `extract.EDITORIAL_AUTHORS`.
         """
         missing = sorted(meta["fcj_id"] for meta, _b, _p in self.papers.values()
                          if not meta.get("authors"))
-        self.assertEqual(missing, ["FCJ-203", "FCJ-212"])
+        self.assertEqual(missing, [])
+
+    def test_editorial_authors_are_the_issue_editors_not_the_managing_editors(self):
+        """`issueeditor` lists the journal's managing editors beside the issue's
+        own editors, and they did not write the editorial. The two declared
+        editorials must credit exactly their issue editors."""
+        expected = {
+            "FCJ-203": ["Petra Gemeinboeck", "Elena Knox", "Jill Bennett"],
+            "FCJ-212": ["Armin Beverungen", "Florian Sprenger"],
+        }
+        by_id = {meta["fcj_id"]: meta for meta, _b, _p in self.papers.values()}
+        for ident, authors in expected.items():
+            self.assertEqual(extract_list(by_id[ident].get("authors")), authors)
+        for meta in by_id.values():
+            if meta["fcj_id"] in expected:
+                for managing in ("Andrew Murphie", "Su Ballard", "Susan Ballard"):
+                    self.assertNotIn(managing, extract_list(meta.get("authors")),
+                                     f"{meta['fcj_id']} credits a managing editor")
+
+    def test_a_declaration_never_overrides_a_recorded_author(self):
+        """EDITORIAL_AUTHORS is applied only where the page records none. If a
+        declared paper ever gains real citation metadata, this fails, so the
+        declaration is removed instead of silently winning."""
+        import resolve
+        for ident in extract.EDITORIAL_AUTHORS:
+            meta = next(m for m, _b, _p in self.papers.values()
+                        if m["fcj_id"] == ident)
+            source = os.path.join(resolve.STATIC_ROOT, meta["source_file"])
+            if not os.path.isfile(source):
+                self.skipTest("mirror not present")
+            import markdown
+            self.assertEqual(markdown.authors(inventory.read(source)), [],
+                             f"{ident} now records its own authors")
 
     def test_every_paper_records_where_it_came_from(self):
         for slug, (meta, _body, _p) in self.papers.items():

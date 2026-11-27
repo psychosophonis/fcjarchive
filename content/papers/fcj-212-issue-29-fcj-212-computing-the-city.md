@@ -1,6 +1,9 @@
 ---
 fcj_id: FCJ-212
 title: "Issue 29 :  Computing The City"
+authors:
+  - Armin Beverungen
+  - Florian Sprenger
 issue: 29
 published: 2017-06-29
 doi: 10.15307/fcj.29
