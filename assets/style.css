@@ -1,0 +1,550 @@
+/* Fibreculture Journal archive - created by Mathew Wall-Smith. Apache-2.0; see NOTICE. */
+/* The Fibreculture Journal — archive stylesheet.
+ *
+ * Brief: open-source fonts, sans or typewriter; white, black and greys with
+ * hot pink highlights; academic presentation standards.
+ *
+ * Two rules hold the whole thing together:
+ *   1. Pink is INTERACTION, never decoration. If it is pink you can click it,
+ *      you are hovering it, or it is where you are. Nothing is pink for
+ *      emphasis, because then nothing pink would mean anything.
+ *   2. Mono is APPARATUS, never prose. Paragraph numbers, FCJ ids, dates,
+ *      DOIs, figure labels — the machinery of citation. The argument itself is
+ *      always sans, so the eye can tell text from scaffolding without reading.
+ *
+ * Edit this file and re-run build/generate.py; nothing here is generated.
+ */
+
+/* --------------------------------------------------------------- fonts
+ * IBM Plex, SIL Open Font Licence, self-hosted. An archive built to outlive
+ * its own domain must not fetch its typography from someone else's CDN at
+ * read time. Sans and mono are one family, so they share metrics and the
+ * apparatus lines up with the prose. 164 KB for the nine files.
+ */
+@font-face {
+  font-family: "IBM Plex Sans"; font-style: normal; font-weight: 400;
+  font-display: swap; src: url("fonts/ibm-plex-sans-latin-400-normal.woff2") format("woff2");
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+@font-face {
+  font-family: "IBM Plex Sans"; font-style: normal; font-weight: 400;
+  font-display: swap; src: url("fonts/ibm-plex-sans-latin-ext-400-normal.woff2") format("woff2");
+  unicode-range: U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+@font-face {
+  font-family: "IBM Plex Sans"; font-style: italic; font-weight: 400;
+  font-display: swap; src: url("fonts/ibm-plex-sans-latin-400-italic.woff2") format("woff2");
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+2000-206F,U+2074,U+20AC,U+2122,U+2212,U+FEFF,U+FFFD;
+}
+@font-face {
+  font-family: "IBM Plex Sans"; font-style: italic; font-weight: 400;
+  font-display: swap; src: url("fonts/ibm-plex-sans-latin-ext-400-italic.woff2") format("woff2");
+  unicode-range: U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+@font-face {
+  font-family: "IBM Plex Sans"; font-style: normal; font-weight: 600;
+  font-display: swap; src: url("fonts/ibm-plex-sans-latin-600-normal.woff2") format("woff2");
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+2000-206F,U+2074,U+20AC,U+2122,U+2212,U+FEFF,U+FFFD;
+}
+@font-face {
+  font-family: "IBM Plex Sans"; font-style: normal; font-weight: 600;
+  font-display: swap; src: url("fonts/ibm-plex-sans-latin-ext-600-normal.woff2") format("woff2");
+  unicode-range: U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+@font-face {
+  font-family: "IBM Plex Mono"; font-style: normal; font-weight: 400;
+  font-display: swap; src: url("fonts/ibm-plex-mono-latin-400-normal.woff2") format("woff2");
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+2000-206F,U+2074,U+20AC,U+2122,U+2212,U+FEFF,U+FFFD;
+}
+@font-face {
+  font-family: "IBM Plex Mono"; font-style: normal; font-weight: 400;
+  font-display: swap; src: url("fonts/ibm-plex-mono-latin-ext-400-normal.woff2") format("woff2");
+  unicode-range: U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+@font-face {
+  font-family: "IBM Plex Mono"; font-style: normal; font-weight: 500;
+  font-display: swap; src: url("fonts/ibm-plex-mono-latin-500-normal.woff2") format("woff2");
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+2000-206F,U+2074,U+20AC,U+2122,U+2212,U+FEFF,U+FFFD;
+}
+
+/* --------------------------------------------------------------- tokens */
+:root {
+  --ink: #111111;
+  --paper: #ffffff;
+  --grey-1: #f4f4f4;   /* fills */
+  --grey-2: #d8d8d8;   /* rules */
+  --grey-3: #767676;   /* apparatus, de-emphasised text */
+  --grey-4: #454545;   /* secondary text */
+  --hot: #d4006f;      /* interaction only */
+  --hot-soft: #ffe8f4;
+
+  --sans: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  --measure: 36rem;    /* ~68 characters at the body size */
+  --rail: 3.25rem;     /* the paragraph-number gutter */
+  --gutter: 16px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ink: #ededed;
+    --paper: #0d0d0d;
+    --grey-1: #1a1a1a;
+    --grey-2: #333333;
+    --grey-3: #949494;
+    --grey-4: #bcbcbc;
+    --hot: #ff5fac;      /* lifted: #d4006f fails contrast on near-black */
+    --hot-soft: #2a0b1b;
+  }
+}
+:root[data-theme="dark"] {
+  --ink: #ededed; --paper: #0d0d0d; --grey-1: #1a1a1a; --grey-2: #333333;
+  --grey-3: #949494; --grey-4: #bcbcbc; --hot: #ff5fac; --hot-soft: #2a0b1b;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 1.0625rem;
+  line-height: 1.6;
+  font-kerning: normal;
+  text-rendering: optimizeLegibility;
+}
+
+/* --------------------------------------------------------------- links */
+a { color: inherit; text-decoration: underline; text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em; text-decoration-color: var(--grey-2); }
+a:hover, a:focus-visible { color: var(--hot); text-decoration-color: var(--hot); }
+a:focus-visible { outline: 2px solid var(--hot); outline-offset: 2px; border-radius: 1px; }
+
+.skip {
+  position: absolute; left: -9999px; top: 0; z-index: 10;
+  background: var(--hot); color: #fff; padding: .6rem 1rem;
+  font: 500 .8rem/1 var(--mono); text-decoration: none; letter-spacing: .04em;
+}
+.skip:focus { left: 0; color: #fff; }
+
+/* --------------------------------------------------------------- header */
+header.site {
+  border-bottom: 1px solid var(--grey-2);
+  padding: 1.25rem var(--gutter) 0;
+}
+.masthead {
+  display: flex; flex-wrap: wrap; align-items: baseline;
+  gap: .4rem 1rem; max-width: 64rem; margin: 0 auto;
+}
+.wordmark {
+  font-weight: 600; font-size: 1rem; letter-spacing: -0.01em;
+  text-decoration: none; color: var(--ink);
+}
+.wordmark:hover { color: var(--hot); }
+.issn { font: 400 .7rem/1 var(--mono); color: var(--grey-3); letter-spacing: .04em; }
+
+/* The issue index: every issue reachable from every page, which is what a
+ * reader of a journal archive actually navigates by. Mono because it is a
+ * numeric index, not prose. */
+nav.issues {
+  max-width: 64rem; margin: .5rem auto 0; padding-bottom: .75rem;
+  display: flex; flex-wrap: wrap; gap: .1rem;
+  font: 400 .78rem/1 var(--mono);
+}
+nav.issues .label {
+  color: var(--grey-3); letter-spacing: .08em; text-transform: uppercase;
+  margin-right: .5rem; align-self: center;
+}
+nav.issues a {
+  color: var(--grey-4); text-decoration: none;
+  padding: .3rem .42rem; border-radius: 2px;
+}
+nav.issues a:hover, nav.issues a:focus-visible { background: var(--hot); color: #fff; }
+nav.issues a[aria-current="page"] {
+  color: var(--hot); background: var(--hot-soft); font-weight: 500;
+}
+
+/* The identification panel. A row of bare numbers tells you nothing about
+ * where you are going, and a `title` tooltip is slow, unstyleable and
+ * invisible to a keyboard. This shows the issue's name in a fixed place
+ * beneath the index — fixed, so the eye does not chase a tooltip around — and
+ * it responds to focus as well as hover, so it works from the keyboard. */
+nav.issues { position: relative; padding-bottom: 2.1rem; }
+nav.issues a .t {
+  position: absolute; left: 0; right: 0; top: calc(100% - 1.7rem);
+  padding: .35rem .42rem;
+  font-family: var(--sans); font-size: .82rem; letter-spacing: 0;
+  color: var(--hot); background: var(--paper);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  opacity: 0; transition: opacity .09s ease-out; pointer-events: none;
+}
+nav.issues a:hover .t, nav.issues a:focus-visible .t { opacity: 1; }
+/* With nothing hovered, name the issue you are actually on. */
+nav.issues a[aria-current="page"] .t { opacity: 1; color: var(--grey-3); }
+nav.issues:hover a[aria-current="page"] .t { opacity: 0; }
+nav.issues a:hover .t, nav.issues a:focus-visible .t { color: var(--hot); }
+@media (prefers-reduced-motion: reduce) {
+  nav.issues a .t { transition: none; }
+}
+
+/* The journal's institutional pages — who edits it, how it reviews, who
+ * preserves it. In the masthead rather than the footer, because a journal's
+ * standing depends on these being findable. */
+nav.pages {
+  max-width: 64rem; margin: 0 auto; padding: 0 0 .9rem;
+  display: flex; flex-wrap: wrap; gap: .2rem 1.1rem;
+  font-size: .82rem;
+}
+nav.pages a { color: var(--grey-4); text-decoration: none; }
+nav.pages a:hover, nav.pages a:focus-visible {
+  color: var(--hot); text-decoration: underline;
+}
+nav.pages a[aria-current="page"] { color: var(--hot); font-weight: 600; }
+
+/* --------------------------------------------------------------- layout */
+main { max-width: var(--measure); margin: 2.5rem auto 5rem; padding: 0 var(--gutter); }
+main.wide { max-width: 64rem; }
+
+footer.site {
+  border-top: 1px solid var(--grey-2); margin-top: 4rem;
+  padding: 1.5rem var(--gutter) 3rem;
+  font-size: .82rem; color: var(--grey-3);
+}
+footer.site .inner { max-width: 64rem; margin: 0 auto; }
+footer.site p { margin: .3rem 0; max-width: 44rem; }
+
+/* Preservation and publisher indicators. These carry institutional weight —
+ * the LOCKSS sentence is the publisher permission statement a LOCKSS crawler
+ * looks for, so it is set as readable text, not as a caption under a badge. */
+footer.site .lockss,
+footer.site .publisher,
+footer.site .imprint { font-size: .78rem; }
+footer.site .lockss {
+  border-left: 2px solid var(--grey-2); padding-left: .8rem;
+  margin-bottom: .6rem; color: var(--grey-4);
+}
+footer.site .imprint {
+  font-family: var(--mono); font-size: .72rem; letter-spacing: .03em;
+  margin-bottom: 1rem;
+}
+footer.site .publisher { margin-bottom: .2rem; }
+
+/* --------------------------------------------------------------- headings */
+h1 { font-size: 1.6rem; line-height: 1.22; font-weight: 600; letter-spacing: -0.015em;
+     margin: 0 0 .5rem; text-wrap: balance; }
+h2 { font-size: 1.15rem; font-weight: 600; margin: 2.75rem 0 .6rem; letter-spacing: -0.01em; }
+h3 { font-size: 1.02rem; font-weight: 600; margin: 2.25rem 0 .5rem; }
+h4, h5, h6 { font-size: .95rem; font-weight: 600; margin: 1.75rem 0 .4rem; }
+
+/* --------------------------------------------------------------- article */
+.byline { font-size: 1.02rem; margin: 0 0 .15rem; }
+.byline .author { font-weight: 600; }
+.artmeta {
+  font: 400 .75rem/1.5 var(--mono); color: var(--grey-3);
+  letter-spacing: .03em; margin: .5rem 0 0;
+  display: flex; flex-wrap: wrap; gap: .25rem .9rem;
+}
+.artmeta a { text-decoration-color: var(--grey-2); }
+
+.abstract {
+  margin: 1.75rem 0; padding: 1rem 0 1rem 1rem;
+  border-left: 2px solid var(--hot);
+  font-size: .97rem; color: var(--grey-4);
+}
+.abstract .lbl {
+  display: block; font: 500 .68rem/1 var(--mono); letter-spacing: .12em;
+  text-transform: uppercase; color: var(--hot); margin-bottom: .5rem;
+}
+.abstract p { margin: 0; }
+
+/* Downloads as a line of text, not buttons. The mirror showed a PDF icon GIF
+ * and the words "Issue:pdf"; the first version of this archive put them in
+ * bordered boxes, which read as interface rather than as part of the page. */
+.downloads { margin: .9rem 0 0; font-size: .9rem; color: var(--grey-3); }
+.downloads .lbl {
+  font: 500 .68rem/1 var(--mono); letter-spacing: .12em; text-transform: uppercase;
+  color: var(--grey-3); margin-right: .45rem;
+}
+.downloads a { color: var(--ink); text-decoration-color: var(--grey-2); }
+.downloads a:hover, .downloads a:focus-visible { color: var(--hot); }
+
+hr { border: 0; border-top: 1px solid var(--grey-2); margin: 2.5rem 0; }
+
+.body { margin-top: 2.5rem; }
+.body p { margin: 0 0 1.15rem; position: relative; }
+
+/* Paragraph numbers. The journal numbers paragraphs and people cite them, so
+ * they sit in the margin where the original had them — present for citation,
+ * out of the way of reading. Below the breakpoint there is no margin to put
+ * them in, so they become a small inline marker rather than disappearing. */
+.rail {
+  font: 400 .7rem/1 var(--mono); color: var(--grey-3);
+  text-decoration: none; letter-spacing: .02em;
+}
+.rail:hover, .rail:focus-visible { color: var(--hot); }
+@media (min-width: 64rem) {
+  .body p > .rail {
+    position: absolute; left: calc(-1 * var(--rail)); top: .35em;
+    width: calc(var(--rail) - .75rem); text-align: right;
+  }
+  main.article {
+    max-width: calc(var(--measure) + var(--rail));
+    padding-left: calc(var(--gutter) + var(--rail));
+  }
+}
+@media (max-width: 63.99rem) {
+  .body p > .rail::after { content: " ·"; }
+  .body p > .rail { margin-right: .35rem; }
+}
+
+.body em { font-style: italic; }
+.body strong { font-weight: 600; }
+
+blockquote {
+  margin: 1.6rem 0; padding-left: 1.15rem;
+  border-left: 2px solid var(--grey-2); color: var(--grey-4);
+  font-size: .97rem;
+}
+blockquote p { margin-bottom: .8rem; }
+
+/* --------------------------------------------------------------- figures */
+figure { margin: 2.25rem 0; }
+figure img { display: block; width: 100%; height: auto; background: var(--grey-1); }
+figcaption {
+  margin-top: .6rem; font: 400 .78rem/1.5 var(--mono);
+  color: var(--grey-3); letter-spacing: .01em;
+}
+figcaption em { font-family: var(--sans); font-style: italic; }
+img[data-missing-src] { display: none; }
+
+aside.embed {
+  margin: 2rem 0; padding: .9rem 1rem; background: var(--grey-1);
+  border: 1px dashed var(--grey-2); border-radius: 2px;
+  font: 400 .8rem/1.5 var(--mono); color: var(--grey-3);
+}
+aside.embed p { margin: 0; }
+
+/* Markup an author quoted in their argument — FCJ-127 prints XML. Mono here
+ * is apparatus of a different kind: it marks text that is code, not prose. */
+code {
+  font: 400 .88em/1.4 var(--mono);
+  background: var(--grey-1); padding: .1em .32em; border-radius: 2px;
+  overflow-wrap: break-word;
+}
+
+table { border-collapse: collapse; width: 100%; margin: 2rem 0; font-size: .9rem; }
+td, th { border-bottom: 1px solid var(--grey-2); padding: .5rem .6rem;
+         text-align: left; vertical-align: top; }
+th { font-weight: 600; }
+
+/* --------------------------------------------------------------- apparatus */
+sup.noteref { font-size: .65em; line-height: 0; }
+sup.noteref a {
+  text-decoration: none; color: var(--hot); padding: 0 .1em;
+  font-family: var(--mono);
+}
+p.note { font-size: .92rem; color: var(--grey-4); margin-bottom: .75rem; }
+p.note .notenum {
+  font: 500 .72rem/1 var(--mono); color: var(--hot);
+  text-decoration: none; margin-right: .5rem;
+}
+
+/* Hanging indent: the reference-list convention, so surnames align down the
+ * left edge and a reader can scan for an author. */
+ul.reflist { list-style: none; padding: 0; margin: 1rem 0; }
+ul.reflist li, p.refpara {
+  font-size: .92rem; color: var(--grey-4);
+  padding-left: 1.6rem; text-indent: -1.6rem; margin-bottom: .7rem;
+}
+
+/* --------------------------------------------------------------- indexes */
+/* "Edited by …" at the top of an issue. Text, not badges: the journal credits
+ * its editors in prose and that is how it should read. */
+p.editors { margin: .35rem 0 0; font-size: .95rem; line-height: 1.5; max-width: 42rem; }
+p.editors .lbl {
+  font: 500 .68rem/1 var(--mono); letter-spacing: .12em; text-transform: uppercase;
+  color: var(--grey-3); margin-right: .45rem;
+}
+p.editors .who { font-weight: 600; }
+p.editors .where { color: var(--grey-3); }
+
+.lede { font-size: 1.05rem; color: var(--grey-4); max-width: 34rem; margin: 0 0 1rem; }
+.lede strong { color: var(--ink); font-weight: 600; }
+
+ul.issuelist { list-style: none; padding: 0; margin: 0; }
+ul.issuelist li { border-top: 1px solid var(--grey-2); }
+ul.issuelist li:last-child { border-bottom: 1px solid var(--grey-2); }
+ul.issuelist a {
+  display: grid; grid-template-columns: 5.5rem 1fr auto; gap: .75rem;
+  align-items: baseline; padding: .85rem .25rem; text-decoration: none;
+}
+ul.issuelist a:hover, ul.issuelist a:focus-visible { background: var(--hot-soft); }
+ul.issuelist a:hover .theme, ul.issuelist a:focus-visible .theme { color: var(--hot); }
+ul.issuelist .n { font: 400 .74rem/1.6 var(--mono); color: var(--grey-3);
+                  letter-spacing: .06em; text-transform: uppercase; }
+ul.issuelist .theme { font-weight: 600; }
+ul.issuelist .count { font: 400 .74rem/1.6 var(--mono); color: var(--grey-3); }
+
+/* Contents in parallel columns, per the brief. CSS columns rather than a grid
+ * so entries of different lengths pack without leaving ragged holes. */
+ol.contents { list-style: none; padding: 0; margin: 1.25rem 0 0; }
+@media (min-width: 52rem) {
+  ol.contents { columns: 2; column-gap: 2.5rem; }
+}
+ol.contents li {
+  break-inside: avoid; padding: .75rem 0;
+  border-top: 1px solid var(--grey-2);
+}
+/* The contents is the issue's navigation, so it carries real weight: the row
+ * is a target, not a line of text, and the whole row highlights. */
+ol.contents li:hover { background: var(--hot-soft); }
+ol.contents .id {
+  display: block; font: 400 .7rem/1.6 var(--mono); color: var(--grey-3);
+  letter-spacing: .06em;
+}
+ol.contents a { text-decoration: none; font-weight: 600; font-size: 1.02rem;
+                line-height: 1.3; display: block; }
+ol.contents li:hover a, ol.contents a:hover, ol.contents a:focus-visible {
+  color: var(--hot);
+}
+ol.contents .authors { display: block; font-size: .85rem; color: var(--grey-3);
+                       font-weight: 400; margin-top: .15rem; }
+
+/* The editorial sits BELOW the contents on an issue page, so it needs its own
+ * heading and a comfortable measure of its own. */
+.body.editorial { max-width: var(--measure); margin-top: 1rem; }
+
+/* Issue banner (off unless FCJ_BANNERS=1).
+ *
+ * 13 of the 31 issues have their own artwork and it is good — the Konami code
+ * for the games issue, phones with hearts for Apps and Affect, an aerial
+ * photograph for Computing The City. The other 18 get nothing rather than the
+ * generic strip they shared: an issue either had art or it did not, and
+ * repeating one decoration 18 times says less than silence.
+ *
+ * The aspect ratio comes from the file and is written inline per image, with
+ * a floor, so issue 22's band — which floats in a mostly empty 960x560
+ * canvas — is cropped to the band instead of opening the page with
+ * whitespace. `cover` does the cropping.
+ *
+ * NOT inverted in dark mode. An earlier version inverted it, which is right
+ * for a line-art strip and ruins a photograph; several of these are
+ * photographs. They are dimmed slightly instead, so they sit in the page
+ * rather than glaring out of it. */
+img.banner {
+  display: block; width: 100%; margin: 0 0 1.75rem;
+  object-fit: cover; object-position: center;
+  background: var(--grey-1);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) img.banner { opacity: .82; }
+}
+:root[data-theme="dark"] img.banner { opacity: .82; }
+
+.sectionhead {
+  font: 500 .7rem/1 var(--mono); letter-spacing: .14em; text-transform: uppercase;
+  color: var(--grey-3); margin: 3rem 0 0; padding-bottom: .4rem;
+}
+
+/* --------------------------------------------------------------- print
+ * No PDFs exist for the early issues, so the browser's "Print to PDF" is the
+ * offprint route. This makes that output a readable article rather than a
+ * screenshot of a website: no navigation, no pink, printable link targets,
+ * figures kept whole across page breaks.
+ */
+@media print {
+  :root { --ink: #000; --paper: #fff; --grey-2: #bbb; --grey-3: #555; --grey-4: #222;
+          --hot: #000; --hot-soft: transparent; }
+  header.site, nav.issues, .skip, .downloads { display: none !important; }
+  body { font-size: 10.5pt; line-height: 1.45; }
+  main, main.wide, main.article { max-width: none; padding: 0; margin: 0; }
+  a { text-decoration: none; color: #000; }
+  .body a[href^="http"]::after {
+    content: " <" attr(href) ">"; font-family: var(--mono); font-size: 8pt; color: #555;
+    word-break: break-all;
+  }
+  .body p > .rail { position: static; width: auto; margin-right: .4rem; }
+  figure, blockquote, table, p.note { break-inside: avoid; }
+  h1, h2, h3 { break-after: avoid; }
+  .abstract { border-left: 1pt solid #000; }
+  ol.contents { columns: 2; }
+  footer.site { border-top: 1pt solid #000; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}
+
+/* --------------------------------------------------------------- phones
+ * Checked at 360px, which is narrower than most phones in portrait.
+ *
+ * The issue index is the hard part: 31 numbers plus a hover panel, in a place
+ * with no hover and no room. The panel becomes a wrapping line under the
+ * numbers instead of an overlay, and the numbers become touch targets rather
+ * than text. Everything else is a measure problem, which the single-column
+ * layout already solves.
+ */
+@media (max-width: 34rem) {
+  :root { --gutter: 14px; }
+  body { font-size: 1rem; }
+  h1 { font-size: 1.35rem; }
+
+  .masthead { gap: .15rem .75rem; }
+  .wordmark { font-size: .95rem; }
+
+  nav.issues { padding-bottom: .5rem; gap: .15rem; }
+  nav.issues a {
+    min-width: 2.1rem; min-height: 2.1rem;      /* a thumb, not a word */
+    display: inline-flex; align-items: center; justify-content: center;
+    border: 1px solid var(--grey-2);
+  }
+  /* No hover on a touch screen, so an overlay panel would never be seen and
+     would sit on top of the page when focused. It becomes a static line. */
+  nav.issues a .t { display: none; }
+  nav.issues a[aria-current="page"] .t {
+    display: block; position: static; opacity: 1;
+    padding: .5rem 0 0; white-space: normal; overflow: visible;
+    font-size: .85rem; color: var(--grey-4); order: 99; width: 100%;
+  }
+  nav.issues { flex-wrap: wrap; }
+
+  ol.contents a { font-size: 1rem; }
+  ol.contents li { padding: .85rem 0; }
+
+  .artmeta { gap: .15rem .7rem; font-size: .72rem; }
+  .downloads a { padding: .6rem .75rem; }       /* tappable */
+
+  /* The paragraph rail has no margin to live in; it is already inline below
+     64rem, but it must not push the first line out of alignment. */
+  .body p > .rail { font-size: .68rem; }
+
+  blockquote { padding-left: .85rem; }
+  figure { margin: 1.5rem 0; }
+  img.banner { margin-bottom: 1.25rem; }
+}
+
+/* Nothing may cause a sideways scroll on a phone: a long DOI, a bare URL in a
+ * reference, or a wide table are the usual culprits. */
+body { overflow-x: hidden; }
+.body, .artmeta, p.editors, ol.contents { overflow-wrap: break-word; }
+table { display: block; overflow-x: auto; max-width: 100%; }
+
+/* The maintainer contact on the About page — Invariant 8(b), the only text of
+ * the archive's own on a journal page besides an offprint's colophon. Set
+ * apart deliberately: the invariant's concern is the archive speaking in the
+ * journal's voice, and prose styled identically to the page around it does
+ * exactly that however the markup is labelled. A rule above it and a smaller,
+ * quieter face say "this is the archive, not the journal" without needing a
+ * sentence to explain that it is. */
+p.archive-contact {
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid currentColor;
+  border-top-color: color-mix(in srgb, currentColor 20%, transparent);
+  font-size: 0.85rem;
+  opacity: 0.75;
+}

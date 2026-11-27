@@ -1,0 +1,35 @@
+# Generated output. `site/` is rendered from `content/` in about a second, so
+# committing it would double the repository to store something reproducible —
+# and every restyle would show up as a diff across 271 files.
+site/
+site-banners/
+
+# NOT ignored, deliberately: `content/` and `recovered/`.
+#
+# `content/` is generated, but it is the product — the Markdown archive is the
+# thing people download and reuse, so it is committed along with its images
+# and PDFs.
+#
+# `recovered/` is an INPUT, and the only one that is not reproducible: those
+# files came from Wayback Machine snapshots of a domain that now returns 503.
+# Losing them would mean losing the figures again, so they and their manifest
+# are committed.
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Session artefacts of the development protocol: process, not product.
+.dev-protocol/plans/
+
+# Local development scaffolding — the dev-protocol's instructions, doc checker,
+# spec registry and probe template. Process for whoever is working on this copy,
+# not part of the journal or its tooling, so it is kept out of the public repo.
+CLAUDE.md
+.scripts/
+docs/SPECS.md
+proofs/README.md
+proofs/example.mjs
