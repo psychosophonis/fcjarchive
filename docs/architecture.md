@@ -24,7 +24,9 @@ root:
 <project root>/
   fcjarchive/     this repository — the product
   source/         the inputs below; read-only, never on the render path
-  deploy/         Caddyfile, host list, and the final static tarball
+  deploy-old-crawl/  the setup that served the crawled mirror — NOT for
+                  this archive: its Caddyfile redirects the apex out to the
+                  33 subdomains, the opposite of what the archive needs
 ```
 
 The build MUST locate them through `resolve.SOURCE_ROOT`, which derives that
